@@ -21,7 +21,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-02 11:25:36,31,M,Berlin,Senior,Data Scientist,6,Python,78000.0,76000.0,30,English,1000+,Product,unlimited,2019
 2019-12-02 11:25:49,24,M,Berlin,Middle,Machine Learning Engineer,2,C/C++,70000.0,70000.0,30.0,English,10-50,Startup,unlimited,2019
 2019-12-02 11:26:09,28,M,Hamburg,Senior,Backend Developer,7,PHP,55000.0,0.0,25.0,English,100-1000,Product,unlimited,2019
-2019-12-02 11:27:04,32,M,Frankfurt,Senior,DevOps,12,Not Relevant,160000.0,0.0,30,Deutsch,1000+,Product,unlimited,2019
 2019-12-02 11:27:41,27,M,Berlin,Senior,Data Engineer,5,Python,75000.0,0.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-02 11:30:24,32,M,Berlin,Senior,DevOps,13,Not Relevant,60000.0,60000.0,24.0,English,50-100,Product,unlimited,2019
 2019-12-02 11:30:34,32,M,Berlin,Senior,DevOps,7,AWS,72000.0,72000.0,24.0,English,1000+,Product,unlimited,2019
@@ -36,7 +35,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-02 11:39:53,36,M,Berlin,Senior,Backend Developer,11,PHP,65000.0,60000.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-02 11:41:59,33,M,Berlin,Middle,Backend Developer,4,Java,58000.0,48000.0,29.0,Deutsch,1000+,Product,unlimited,2019
 2019-12-02 11:44:10,37,M,Berlin,Senior,Data Engineer,16,Scala,65000.0,0.0,28.0,English,1000+,Product,unlimited,2019
-2019-12-02 11:45:24,29,M,Berlin,Senior,Backend Developer,11,Javascript / Typescript,190000.0,97000.0,9.0,English,upto-10,Startup,unlimited,2019
 2019-12-02 11:45:54,33,M,Berlin,Senior,Backend Developer,9,Java,69000.0,69000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-02 11:46:17,35,M,Frankfurt,Middle,Business Analyst,15,Not Relevant,72000.0,70000.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-02 11:46:58,35,M,Cologne,Senior,Backend Developer,4,Java,67000.0,0.0,30.0,English,50-100,Startup,unlimited,2019
@@ -62,14 +60,12 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-02 12:11:37,37,M,Berlin,Senior,Localization,15,Not Relevant,60000.0,55000.0,25.0,English,1000+,Product,unlimited,2019
 2019-12-02 12:13:02,40,M,Berlin,Senior,Manager,15,Not Relevant,70000.0,65000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-02 12:14:19,34,M,Berlin,Senior,Support,9,PHP,60000.0,53500.0,28.0,English,100-1000,Product,unlimited,2019
-2019-12-02 12:16:09,32,M,Berlin,Senior,Backend Developer,12,Java,150000.0,0.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-02 12:18:34,27,F,Berlin,Middle,Data Scientist,3,Python,66000.0,52000.0,27.0,English,100-1000,Startup,unlimited,2019
 2019-12-02 12:23:45,30,M,Munich,Senior,Mobile Developer,8,Swift,60000.0,0.0,27.0,English,1000+,Product,unlimited,2019
 2019-12-02 12:24:08,32,M,Berlin,Senior,Backend Developer,11,PHP,65000.0,60000.0,26.0,English,50-100,Product,unlimited,2019
 2019-12-02 12:24:55,23,M,Berlin,Middle,Data Scientist,3,Python,50000.0,0.0,28.0,English,50-100,Startup,unlimited,2019
 2019-12-02 12:27:11,35,M,Munich,Senior,Embedded Developer,12,C/C++,78000.0,60000.0,30.0,English,100-1000,Consulting / Agency,unlimited,2019
 2019-12-02 12:28:29,30,M,Munich,Middle,DevOps,10,AWS,80000.0,75000.0,27.0,English,50-100,Product,unlimited,2019
-2019-12-02 12:28:59,40,M,Munich,Senior,Mobile Developer,12,Swift,113000.0,0.0,30.0,English,10-50,Product,unlimited,2019
 2019-12-02 12:31:11,27,M,Munich,Senior,Backend Developer,5,Java,70000.0,57000.0,30.0,English,100-1000,Consulting / Agency,1Y+,2019
 2019-12-02 12:39:00,36,M,Berlin,Senior,Backend Developer,14,Java,73000.0,68000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-02 12:39:31,36,M,Berlin,Lead,Manager,15,PHP,80000.0,0.0,30.0,English,1000+,Product,unlimited,2019
@@ -79,7 +75,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-02 12:45:44,32,F,Berlin,Senior,Backend Developer,12,.NET,96000.0,85000.0,30.0,English,1000+,Product,1Y,2019
 2019-12-02 12:53:59,38,M,Berlin,Senior,Backend Developer,18,Not Relevant,75000.0,80000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-02 12:54:44,29,M,Munich,Senior,Backend Developer,10,Ruby,55000.0,52000.0,26.0,English,100-1000,Product,unlimited,2019
-2019-12-02 12:56:07,30,M,Berlin,Lead,Data Scientist,6,Python,115000.0,107500.0,28.0,English,1000+,Startup,unlimited,2019
 2019-12-02 12:59:36,26,M,Munich,Middle,QA,6,Python,65000.0,55000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-02 13:02:11,30,M,Munich,Middle,DevOps,10,AWS,80000.0,72000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-02 13:03:05,32,M,Berlin,Middle,Mobile Developer,7,Swift,66000.0,0.0,25.0,English,1000+,Product,unlimited,2019
@@ -115,7 +110,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-02 14:23:35,27,F,Berlin,Middle,Data Scientist,2,Python,58500.0,55000.0,24.0,English,50-100,Startup,unlimited,2019
 2019-12-02 14:25:37,46,M,Berlin,Middle,System Administrator,7,"Microsoft, Vmware",45000.0,0.0,25.0,Deutsch,50-100,Consulting / Agency,unlimited,2019
 2019-12-02 14:27:33,46,M,Berlin,Junior,DevOps,0,Kubernetes,55000.0,0.0,25.0,Deutsch,50-100,Product,unlimited,2019
-2019-12-02 14:29:11,31,M,Berlin,Head,"CTO (CEO, CFO)",12,Java,210000.0,0.0,32.0,English,1000+,Product,unlimited,2019
 2019-12-02 14:34:27,47,M,Berlin,Senior,Embedded Developer,20,C/C++,65000.0,65000.0,30.0,English,1000+,Bodyshop / Outsource,unlimited,2019
 2019-12-02 14:35:46,40,M,Berlin,Senior,Software Architect,18,Not Relevant,94000.0,86900.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-02 14:35:55,37,M,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,66000.0,65000.0,29.0,English,100-1000,Product,unlimited,2019
@@ -124,7 +118,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-02 14:41:59,37,F,Berlin,Middle,Backend Developer,10,C/C++,57000.0,0.0,26.0,English,100-1000,Product,unlimited,2019
 2019-12-02 14:43:33,30,F,Berlin,Middle,Backend Developer,4,Python,54000.0,47250.0,30.0,English,50-100,Product,unlimited,2019
 2019-12-02 14:44:36,33,M,Berlin,Senior,QA,8,Javascript / Typescript,63000.0,57000.0,30.0,English,1000+,Product,unlimited,2019
-2019-12-02 14:46:50,35,M,Munich,Principal,Software Architect,15,Google Cloud,120000.0,90000.0,30.0,Deutsch,100-1000,Consulting / Agency,unlimited,2019
 2019-12-02 14:47:18,25,M,Berlin,Middle,Business Analyst,4,Python,60000.0,0.0,25.0,English,100-1000,Product,unlimited,2019
 2019-12-02 14:55:58,25,M,Munich,Senior,Frontend Developer,4,Javascript / Typescript,74000.0,57000.0,30.0,English,1000+,Product,1Y+,2019
 2019-12-02 15:08:55,32,M,Berlin,Senior,Backend Developer,11,Python,70000.0,60000.0,27.0,English,1000+,Product,unlimited,2019
@@ -148,13 +141,9 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-02 15:29:03,38,M,Berlin,Senior,Backend Developer,6,Java,66000.0,0.0,25.0,English,1000+,Product,1Y+,2019
 2019-12-02 15:33:10,29,M,Munich,Senior,QA,6,Javascript / Typescript,60000.0,0.0,28.0,English,100-1000,Product,unlimited,2019
 2019-12-02 15:33:43,33,M,Berlin,Senior,Embedded Developer,9,C/C++,74000.0,61200.0,30.0,English,100-1000,Product,unlimited,2019
-2019-12-02 15:34:33,34,M,Munich,Senior,Backend Developer,10,PHP,120000.0,90000.0,20.0,English,upto-10,Consulting / Agency,1Y,2019
-2019-12-02 15:40:21,33,M,Berlin,Senior,Software Architect,12,Go,120000.0,95000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-02 15:44:50,36,M,Berlin,Senior,Fullstack Developer,15,Javascript / Typescript,70000.0,58000.0,25.0,English,100-1000,Product,unlimited,2019
 2019-12-02 15:43:54,31,F,Munich,Junior,Fullstack Developer,4,Java,57000.0,47000.0,28.0,Deutsch,100-1000,Product,unlimited,2019
-2019-12-02 15:44:10,38,M,Berlin,Senior,Manager,9,Not Relevant,120000.0,90000.0,25.0,English,1000+,Product,unlimited,2019
 2019-12-02 15:44:44,24,F,Munich,Junior,Backend Developer,1,C/C++,72000.0,0.0,30.0,English,1000+,Product,unlimited,2019
-2019-12-02 15:45:22,40,M,Frankfurt,Senior,SAP Consultant,14,Not Relevant,175000.0,160000.0,15.0,English,1000+,Product,6M,2019
 2019-12-02 15:49:42,37,M,Munich,Senior,Fullstack Developer,11,PHP,67000.0,66000.0,5.0,Deutsch,100-1000,Product,1Y+,2019
 2019-12-02 15:49:47,25,M,Frankfurt,Senior,Backend Developer,6,Java,65000.0,0.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-02 15:50:29,33,M,Berlin,Senior,Mobile Developer,10,Kotlin,80000.0,72000.0,28.0,English,1000+,Product,unlimited,2019
@@ -173,20 +162,17 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-02 16:11:06,39,M,Munich,Senior,Desktop/Unity3D Developer,15,.NET,49375.0,46250.0,30.0,Deutsch,10-50,Product,unlimited,2019
 2019-12-02 16:18:06,36,M,Berlin,Senior,Manager,13,Java,80000.0,70000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-02 16:20:54,32,M,Berlin,Middle,Mobile Developer,5,Swift,60000.0,56400.0,28.0,English,100-1000,Product,unlimited,2019
-2019-12-02 16:22:39,38,M,Munich,Senior,Software Architect,17,C/C++,120000.0,117000.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-02 16:23:24,42,F,Munich,Middle,Product Manager,10,Not Relevant,68700.0,0.0,30.0,English,50-100,Product,unlimited,2019
 2019-12-02 16:23:37,32,M,Prague,Senior,DevOps,11,Python,33200.0,0.0,25.0,English,1000+,Product,unlimited,2019
 2019-12-02 16:25:53,32,M,Munich,Middle,Backend Developer,8,Java,68000.0,66000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-02 16:35:02,33,M,Munich,Senior,Fullstack Developer,8,.NET,63000.0,62000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-02 16:37:57,34,M,Cologne,Senior,Manager,15,Not Relevant,60000.0,48000.0,28.0,English,1000+,Consulting / Agency,unlimited,2019
-2019-12-02 16:38:25,35,M,Munich,Senior,Software Architect,15,AWS,120000.0,0.0,30,Russian,1000+,Product,unlimited,2019
 2019-12-02 16:38:56,35,M,Frankfurt,Senior,Backend Developer,16,PHP,55000.0,55000.0,24.0,English,50-100,Product,unlimited,2019
 2019-12-02 16:39:11,24,M,Frankfurt,Junior,DevOps,1,AWS,45000.0,40000.0,28.0,Deutsch,50-100,Consulting / Agency,unlimited,2019
 2019-12-02 16:40:52,48,F,Munich,Senior,Manager,11,Not Relevant,75000.0,0.0,27.0,English,100-1000,Product,unlimited,2019
 2019-12-02 16:41:25,31,M,Wroclaw,Senior,Backend Developer,10,Ruby,45000.0,0.0,28.0,English,50-100,Consulting / Agency,1Y+,2019
 2019-12-02 16:43:19,40,F,Munich,Senior,SAP Consultant,9,Not Relevant,89000.0,87000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-02 16:45:22,29,M,Cologne,Senior,Fullstack Developer,4,.NET,65000.0,45000.0,30.0,Deutsch,1000+,Product,unlimited,2019
-2019-12-02 16:47:18,38,M,Munich,Lead,Fullstack Developer,17,Javascript / Typescript,114000.0,0.0,24.0,English,100-1000,Product,unlimited,2019
 2019-12-02 16:47:47,36,M,Stuttgart,Senior,Mobile Developer,16,Javascript / Typescript,60000.0,60000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-02 16:52:20,32,M,Munich,unknown,Manager,10,Not Relevant,85000.0,82500.0,30.0,Deutsch,1000+,Product,unlimited,2019
 2019-12-02 16:53:56,34,M,Munich,Junior,Backend Developer,3,Java,46000.0,0.0,30,Deutsch,100-1000,Product,unlimited,2019
@@ -213,7 +199,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-02 18:48:21,32,M,Munich,Lead,Backend Developer,14,PHP,80000.0,70000.0,30.0,Deutsch,1000+,Product,unlimited,2019
 2019-12-02 18:51:02,34,M,Berlin,Senior,Backend Developer,10,C/C++,90000.0,75000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-02 18:55:15,34,M,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,68000.0,65000.0,26.0,English,100-1000,Product,unlimited,2019
-2019-12-02 19:00:08,33,M,Munich,Senior,Fullstack Developer,15,PHP,120000.0,114000.0,25.0,English,100-1000,Product,unlimited,2019
 2019-12-02 19:03:22,31,M,Frankfurt,Middle,System Administrator,10,Python,65000.0,65000.0,25.0,English,100-1000,Product,1Y+,2019
 2019-12-02 19:10:14,37,M,Munich,Middle,Business Analyst,15,Not Relevant,87000.0,84000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-02 19:10:32,33,M,Munich,Senior,QA,5,Kotlin,70000.0,60000.0,30.0,English,1000+,Product,unlimited,2019
@@ -225,7 +210,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-02 19:49:12,54,M,Ingolstadt,Senior,Data Scientist,8,R,78000.0,0.0,30.0,Deutsch,1000+,Product,1Y+,2019
 2019-12-02 19:49:52,35,M,Düsseldorf,Middle,Backend Developer,6,.NET,55000.0,0.0,30.0,English,10-50,Bodyshop / Outsource,unlimited,2019
 2019-12-02 19:51:08,31,M,Stuttgart,Middle,Mobile Developer,6,Javascript / Typescript,50000.0,0.0,30.0,Deutsch,1000+,Product,unlimited,2019
-2019-12-02 19:59:09,42,M,Berlin,Senior,"CTO (CEO, CFO)",20,Not Relevant,120000.0,76000.0,24.0,English,100-1000,Startup,unlimited,2019
 2019-12-02 19:59:25,25,F,Munich,Junior,Manager,1,Not Provided,43200.0,0.0,26.0,Deutsch,1000+,Consulting / Agency,unlimited,2019
 2019-12-02 20:02:05,32,M,Hamburg,Senior,DevOps,15,Not Relevant,78000.0,0.0,30.0,English,50-100,Product,unlimited,2019
 2019-12-02 20:04:31,38,M,Munich,Senior,Manager,12,Not Relevant,96000.0,96000.0,30.0,English,1000+,Consulting / Agency,unlimited,2019
@@ -271,13 +255,11 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-03 06:24:28,30,M,Berlin,Senior,Backend Developer,12,Python,70000.0,0.0,30,English,10-50,Startup,unlimited,2019
 2019-12-03 08:08:18,33,M,Munich,Senior,Embedded Developer,11,C/C++,78000.0,72000.0,25.0,Russian,upto-10,Bodyshop / Outsource,unlimited,2019
 2019-12-03 08:27:19,29,F,Munich,Middle,Mobile Developer,8,Swift,65000.0,50000.0,30.0,English,1000+,Product,unlimited,2019
-2019-12-03 08:33:42,32,F,Riga,Junior,Backend Developer,1,AWS,13200.0,0.0,20.0,English,50-100,Consulting / Agency,unlimited,2019
 2019-12-03 08:41:13,29,M,Munich,Senior,Backend Developer,9,.NET,60000.0,0.0,30.0,English,upto-10,Product,unlimited,2019
 2019-12-03 08:41:32,33,M,Munich,Senior,Cloud Platform Engineer,10,Google Cloud,80000.0,0.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-03 08:53:40,32,M,Munich,Senior,Mobile Developer,5,Kotlin,70000.0,0.0,28.0,English,upto-10,Consulting / Agency,unlimited,2019
 2019-12-03 08:53:50,29,M,Berlin,Senior,Fullstack Developer,10,PHP,70000.0,60000.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-03 08:58:34,43,M,Berlin,Senior,Data Engineer,10,SQL,60000.0,60000.0,30,Russian,upto-10,Startup,unlimited,2019
-2019-12-03 09:03:46,32,F,Bern,Middle,QA,5,Not Relevant,120000.0,105000.0,25.0,Deutsch,1000+,Product,unlimited,2019
 2019-12-03 09:06:49,36,M,Berlin,Senior,Software Architect,14,PHP,75000.0,69000.0,28.0,English,100-1000,Product,unlimited,2019
 2019-12-03 09:26:56,30,M,Munich,Senior,Backend Developer,6,Ruby,67000.0,0.0,30.0,English,unknown,Product,unlimited,2019
 2019-12-03 09:31:57,27,M,Berlin,Senior,Frontend Developer,5,Javascript / Typescript,66000.0,0.0,24.0,English,100-1000,Product,unlimited,2019
@@ -295,21 +277,17 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-03 10:16:33,32,M,Berlin,Senior,Backend Developer,11,Java,81600.0,78000.0,36.0,English,1000+,Product,unlimited,2019
 2019-12-03 10:21:33,35,M,Düsseldorf,Senior,DevOps,15,AWS,65000.0,65000.0,30.0,Deutsch,upto-10,Consulting / Agency,unlimited,2019
 2019-12-03 10:22:01,28,M,Berlin,Middle,QA,7,Python,62000.0,0.0,30.0,English,100-1000,Bodyshop / Outsource,unlimited,2019
-2019-12-03 10:24:08,32,M,Berlin,Lead,Machine Learning Engineer,9,Python,128000.0,120000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-03 10:26:11,38,F,Berlin,Senior,SAP Consultant,10,SAP / ABAP,92000.0,78000.0,28.0,Deutsch,1000+,Product,unlimited,2019
 2019-12-03 10:26:19,24,M,Berlin,Middle,Backend Developer,4,Java,65000.0,44000.0,26.0,English,100-1000,Product,unlimited,2019
 2019-12-03 10:32:07,32,M,Berlin,Senior,Backend Developer,5,Java,62000.0,58000.0,28.0,Deutsch,1000+,Consulting / Agency,unlimited,2019
 2019-12-03 10:34:43,32,M,Berlin,Senior,Backend Developer,8,Java,96000.0,90000.0,28.0,English,100-1000,Product,unlimited,2019
 2019-12-03 10:35:52,32,M,Stuttgart,Senior,Machine Learning Engineer,5,Python,98000.0,0.0,30,Deutsch,100-1000,Product,unlimited,2019
 2019-12-03 10:37:06,36,M,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,80000.0,70000.0,30.0,English,100-1000,Product,unlimited,2019
-2019-12-03 10:37:13,32,M,Berlin,Senior,Software Architect,11,Java,124000.0,0.0,32.0,English,1000+,Product,unlimited,2019
-2019-12-03 10:39:01,32,M,Munich,Senior,Researcher,9,Python,130000.0,0.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-03 10:39:59,32,M,Berlin,Senior,Backend Developer,4,Ruby,62000.0,0.0,25.0,English,50-100,Startup,1Y,2019
 2019-12-03 10:41:38,32,M,Berlin,Lead,Software Architect,8,Python,106000.0,0.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-03 10:43:24,42,F,Berlin,Senior,Backend Developer,12,PHP,55000.0,55000.0,26.0,English,50-100,Product,unlimited,2019
 2019-12-03 10:45:57,32,M,Darmstadt,Senior,Backend Developer,10,Java,70000.0,0.0,26.0,Deutsch,100-1000,Product,unlimited,2019
 2019-12-03 10:49:45,30,M,Hamburg,Senior,Data Scientist,6,Python,85000.0,80000.0,25.0,English,100-1000,Startup,unlimited,2019
-2019-12-03 11:09:14,32,M,Frankfurt,Senior,Lawyer ,7,Not Provided,170000.0,160000.0,30,English,100-1000,Consulting / Agency,unlimited,2019
 2019-12-03 11:10:10,30,M,Berlin,Senior,Backend Developer,6,Python,70000.0,65000.0,27.0,Russian,100-1000,Startup,unlimited,2019
 2019-12-03 11:12:11,28,M,Berlin,Middle,Backend Developer,8,Java,68000.0,67000.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-03 11:15:48,37,M,Berlin,Senior,Software Architect,15,Java,95000.0,85000.0,30.0,English,100-1000,Product,unlimited,2019
@@ -340,10 +318,8 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-03 15:50:19,41,M,Munich,Senior,Backend Developer,20,Java,78000.0,75000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-03 15:56:07,32,M,Vienna,Lead,Software Architect,12,.NET,80000.0,0.0,25.0,English,1000+,Product,unlimited,2019
 2019-12-03 15:56:31,34,M,Berlin,Senior,Backend Developer,13,Python,70000.0,65000.0,30.0,English,100-1000,Product,unlimited,2019
-2019-12-03 15:59:33,32,M,Munich,Senior,Software Architect,10,Java,120000.0,0.0,35.0,unknown,1000+,Product,unlimited,2019
 2019-12-03 16:08:49,45,M,Berlin,Middle,Data Engineer,14,Java,34446.0,0.0,30,English,50-100,Product,unlimited,2019
 2019-12-03 16:16:58,32,M,Frankfurt,Senior,Backend Developer,8,Java,108000.0,0.0,28.0,unknown,100-1000,Product,unlimited,2019
-2019-12-03 16:21:59,32,M,Munich,Lead,Data Scientist,8,Python,130000.0,0.0,32.0,unknown,1000+,Product,unlimited,2019
 2019-12-03 16:24:03,32,M,Stuttgart,Senior,Fullstack Developer,6,Python,90000.0,0.0,26.0,unknown,unknown,Product,unlimited,2019
 2019-12-03 16:25:30,32,F,Berlin,Senior,Data Scientist,7,Python,65000.0,0.0,28.0,English,50-100,Startup,unlimited,2019
 2019-12-03 16:30:01,32,M,Munich,Senior,Frontend Developer,4,Javascript / Typescript,70000.0,55000.0,27.0,English,10-50,Product,unlimited,2019
@@ -380,11 +356,9 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-03 22:32:24,43,M,Berlin,Middle,Backend Developer,20,Ruby,70000.0,67000.0,24.0,English,1000+,Product,unlimited,2019
 2019-12-03 22:34:45,40,M,Frankfurt,Senior,Manager,18,Not Relevant,88000.0,88000.0,30.0,English,1000+,Bodyshop / Outsource,unlimited,2019
 2019-12-03 22:48:58,35,M,Munich,Senior,DevOps,15,Java,73000.0,70000.0,30,Deutsch,1000+,Product,unlimited,2019
-2019-12-03 23:25:18,36,M,Munich,Senior,Mobile Developer,20,Swift,150000.0,80000.0,60.0,Deutsch,upto-10,Bodyshop / Outsource,unlimited,2019
 2019-12-03 23:25:30,28,M,Munich,Senior,Backend Developer,7,Java,74000.0,69000.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-03 23:49:50,31,M,Munich,Senior,Backend Developer,10,Java,78000.0,70000.0,28.0,English,100-1000,Startup,unlimited,2019
 2019-12-03 23:51:17,30,M,Munich,Head,DevOps,10,AWS,77000.0,70000.0,25.0,English,50-100,Product,unlimited,2019
-2019-12-04 00:02:01,32,M,Munich,Senior,Data Scientist,12,Python,125000.0,0.0,30.0,Deutsch,100-1000,Product,unlimited,2019
 2019-12-04 00:04:40,32,M,Berlin,Head,"CTO (CEO, CFO)",14,C/C++,32000.0,0.0,20.0,English,10-50,Startup,unlimited,2019
 2019-12-04 00:07:30,35,F,Madrid,Middle,Sales Engineer,12,Not Relevant,46000.0,45000.0,22.0,Spanish,1000+,Product,unlimited,2019
 2019-12-04 00:11:03,28,M,Berlin,Senior,Backend Developer,6,Ruby,52000.0,52000.0,20.0,English,100-1000,Startup,1Y,2019
@@ -394,7 +368,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-04 01:19:30,27,F,Munich,Senior,QA,7,Java,69000.0,65000.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-04 04:01:31,32,M,Vienna,Middle,Data Scientist,2,R,70000.0,60000.0,25.0,English,100-1000,Product,unlimited,2019
 2019-12-04 06:31:15,24,M,Stuttgart,Junior,DevOps,2,.NET,44000.0,0.0,30.0,Deutsch,1000+,Product,unlimited,2019
-2019-12-04 06:55:16,32,F,Marburg,Junior,Fullstack Developer,0,Java,23500.0,0.0,30.0,Deutsch,10-50,Product,1Y,2019
 2019-12-04 06:58:37,37,M,Munich,Senior,Backend Developer,17,Java,76500.0,75000.0,28.0,English,100-1000,Product,unlimited,2019
 2019-12-04 07:51:52,27,M,Berlin,Middle,DevOps,6,AWS,66000.0,0.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-04 09:11:59,31,F,Berlin,Junior,Machine Learning Engineer,1,Python,52500.0,0.0,30.0,Deutsch,100-1000,Consulting / Agency,unlimited,2019
@@ -409,7 +382,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-04 11:57:27,32,M,Berlin,Lead,Backend Developer,7,Java,110000.0,0.0,27.0,English,1000+,Product,unlimited,2019
 2019-12-04 11:58:34,32,F,Hamburg,Middle,Frontend Developer,3,Javascript / Typescript,58000.0,0.0,24.0,Deutsch,100-1000,Product,unlimited,2019
 2019-12-04 12:06:12,32,M,Berlin,Senior,Data Scientist,7,R,98000.0,0.0,25.0,English,50-100,Startup,unlimited,2019
-2019-12-04 12:19:20,31,M,Munich,Senior,SAP Consultant,8,Not Relevant,130000.0,110000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-04 12:22:59,27,M,Munich,Junior,Software Architect,3,Not Relevant,50000.0,48000.0,33.0,English,1000+,Product,unlimited,2019
 2019-12-04 13:11:39,28,M,Munich,Senior,Frontend Developer,5,Javascript / Typescript,57000.0,52000.0,26.0,English,100-1000,Product,unlimited,2019
 2019-12-04 13:12:49,32,M,Frankfurt,Middle,Data Scientist,3,Python,73500.0,62000.0,30.0,Deutsch,1000+,Product,unlimited,2019
@@ -423,22 +395,18 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-04 14:08:28,26,M,Moscow,Middle,Data Scientist,3,R,46000.0,23000.0,25.0,English,1000+,Consulting / Agency,unlimited,2019
 2019-12-04 14:13:07,28,M,Hamburg,Middle,Machine Learning Engineer,4,Python,65000.0,0.0,30.0,English,100-1000,Consulting / Agency,unlimited,2019
 2019-12-04 14:17:52,25,M,Munich,Junior,Data Scientist,1,Python,48000.0,0.0,30.0,English,100-1000,Product,unlimited,2019
-2019-12-04 14:23:07,39,M,Munich,Senior,Data Scientist,13,Python,135000.0,0.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-04 14:25:55,35,M,Frankfurt,Senior,Software Architect,12,AWS,70000.0,70000.0,30.0,Deutsch,1000+,Consulting / Agency,unlimited,2019
 2019-12-04 14:26:50,36,M,Berlin,Middle,Data Scientist,4,Python,58000.0,53000.0,30.0,Deutsch,10-50,Consulting / Agency,unlimited,2019
 2019-12-04 14:30:56,35,M,Munich,Senior,Network Engineer,12,Not Relevant,75000.0,55000.0,30.0,Deutsch,upto-10,Consulting / Agency,unlimited,2019
 2019-12-04 14:38:15,30,F,London,Junior,Data Engineer,3,Azure,55000.0,55000.0,30.0,English,1000+,Product,unlimited,2019
-2019-12-04 14:44:01,39,M,Warsaw,Senior,Researcher,15,SAS,22000.0,20000.0,26.0,English,100-1000,Product,unlimited,2019
 2019-12-04 14:45:01,31,M,Berlin,Senior,Manager,10,Java,106000.0,0.0,27.0,English,1000+,Startup,unlimited,2019
 2019-12-04 14:45:10,31,M,Berlin,Senior,Manager,10,Java,106000.0,0.0,27.0,English,1000+,Startup,unlimited,2019
 2019-12-04 14:46:11,29,F,Berlin,Middle,Product Manager,7,Not Relevant,67000.0,0.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-04 14:51:04,33,M,Munich,Senior,Data Scientist,11,Python,67500.0,65000.0,32.0,English,50-100,Product,unlimited,2019
 2019-12-04 14:51:22,32,M,Berlin,Senior,Data Scientist,6,Python,90000.0,84000.0,30.0,Deutsch,100-1000,Product,unlimited,2019
-2019-12-04 14:56:16,31,M,Stuttgart,Senior,Data Engineer,3,Python,20000.0,0.0,30,Russian,1000+,Bodyshop / Outsource,-3M,2019
 2019-12-04 14:58:30,26,M,Berlin,Middle,Machine Learning Engineer,3,Python,46000.0,46000.0,24.0,English,10-50,Product,1Y+,2019
 2019-12-04 15:01:17,33,M,Berlin,Senior,Backend Developer,8,Python,75000.0,70000.0,25.0,English,100-1000,Product,unlimited,2019
 2019-12-04 15:02:22,29,M,Berlin,Junior,Frontend Developer,1,Javascript / Typescript,67000.0,0.0,30.0,English,1000+,Consulting / Agency,unlimited,2019
-2019-12-04 15:10:37,35,F,Berlin,Senior,Data Scientist,10,Python,140000.0,110000.0,30.0,English,100-1000,Startup,unlimited,2019
 2019-12-04 15:11:24,34,M,Munich,Middle,Manager,7,Not Relevant,96000.0,84000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-04 15:14:32,29,F,Berlin,Middle,Frontend Developer,4,Javascript / Typescript,52000.0,0.0,30.0,English,1000+,Startup,unlimited,2019
 2019-12-04 15:15:47,22,M,London,Senior,"CTO (CEO, CFO)",3,Not Relevant,45000.0,10000.0,30.0,English,50-100,Startup,unlimited,2019
@@ -455,26 +423,20 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-04 16:33:24,38,M,Berlin,Senior,NLP Engineer,4,Python,65000.0,0.0,26.0,English,100-1000,Startup,unlimited,2019
 2019-12-04 16:33:28,26,M,Stuttgart,Middle,Data Engineer,3,Python,67200.0,0.0,30,English,1000+,Product,1Y+,2019
 2019-12-04 16:34:18,38,M,Hannover,Senior,Data Scientist,5,R,79000.0,0.0,30.0,Deutsch,100-1000,Consulting / Agency,unlimited,2019
-2019-12-04 16:50:30,28,F,London,Senior,Data Scientist,7,Python,120000.0,65000.0,25.0,English,1000+,Consulting / Agency,3M,2019
 2019-12-04 16:50:32,30,M,Berlin,Senior,"CTO (CEO, CFO)",11,Kotlin,75000.0,80000.0,25.0,English,10-50,Startup,1Y+,2019
 2019-12-04 17:13:51,34,M,Cologne,Middle,Data Scientist,8,R,72000.0,70000.0,30.0,English,1000+,Product,1Y+,2019
 2019-12-04 17:17:22,32,M,Berlin,Senior,Data Scientist,8,Python,104000.0,0.0,29.0,English,100-1000,Product,unlimited,2019
 2019-12-04 17:17:26,29,M,Berlin,Middle,Data Scientist,2,R,53000.0,53000.0,27.0,French,100-1000,Product,unlimited,2019
 2019-12-04 17:57:35,26,M,Berlin,Junior,Researcher,1,Python,40000.0,30000.0,30.0,English,1000+,University,1Y+,2019
-2019-12-04 18:01:15,30,M,Kyiv,Senior,DevOps,8,Azure,130000.0,0.0,21.0,English,1000+,Bodyshop / Outsource,unlimited,2019
 2019-12-04 18:05:07,28,M,Berlin,Principal,Software Architect,10,Not Relevant,110000.0,85000.0,25.0,English,1000+,Product,unlimited,2019
-2019-12-04 18:09:55,49,M,Milan,Senior,Manager,24,Not Relevant,115000.0,95000.0,20.0,Italian,100-1000,Product,1Y,2019
 2019-12-04 18:11:32,33,M,Berlin,Senior,Machine Learning Engineer,11,Python,75000.0,75000.0,30.0,English,100-1000,Product,unlimited,2019
-2019-12-04 18:13:21,20,M,Kyiv,Junior,Machine Learning Engineer,1,Python,14400.0,0.0,20.0,Russian,10-50,Startup,unlimited,2019
 2019-12-04 18:27:33,35,M,Hamburg,Senior,Backend Developer,10,Java,62000.0,48000.0,27.0,English,1000+,Product,unlimited,2019
 2019-12-04 18:27:49,26,M,Odesa,Senior,Data Scientist,3,Python,45000.0,25000.0,20.0,Russian,100-1000,Bodyshop / Outsource,1Y+,2019
 2019-12-04 18:30:51,31,M,Berlin,Senior,Data Engineer,6,Python,75000.0,60000.0,28.0,English,100-1000,Product,unlimited,2019
 2019-12-04 18:35:04,33,F,Berlin,Junior,Researcher,8,Python,54000.0,0.0,28.0,English,1000+,Product,3M,2019
 2019-12-04 18:59:18,31,M,Munich,Senior,Software Engineer,11,C/C++,95000.0,87000.0,30.0,English,100-1000,Product,unlimited,2019
-2019-12-04 19:01:34,32,M,Berlin,Lead,Data Scientist,10,Python,125000.0,0.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-04 19:11:17,28,M,Paris,Middle,Fullstack Developer,3,Java,39400.0,0.0,25.0,French,1000+,Consulting / Agency,unlimited,2019
 2019-12-04 19:13:07,36,M,Berlin,Senior,DevOps,15,AWS,75000.0,68000.0,30.0,English,50-100,Startup,unlimited,2019
-2019-12-04 19:19:26,32,M,Hamburg,Junior,Backend Developer,18,Python,0.0,0.0,30,English,1000+,Product,unlimited,2019
 2019-12-04 19:38:28,39,M,Berlin,Senior,Data Engineer,10,Python,75000.0,68000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-04 19:56:40,27,F,Düsseldorf,Junior,Data Scientist,1,R,45000.0,0.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-04 20:06:49,26,M,Berlin,Middle,Backend Developer,6,Java,78000.0,0.0,28.0,English,1000+,Product,unlimited,2019
@@ -482,7 +444,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-04 20:11:12,32,M,Berlin,unknown,Machine Learning Engineer,7,Python,90000.0,0.0,30.0,English,100-1000,Startup,unlimited,2019
 2019-12-04 20:12:18,29,M,Amsterdam,Senior,Backend Developer,4,Java,65000.0,0.0,27.0,Russian,100-1000,Product,unlimited,2019
 2019-12-04 20:14:44,38,M,Berlin,Senior,Backend Developer,7,Java,80000.0,70000.0,26.0,English,100-1000,Startup,unlimited,2019
-2019-12-04 20:33:27,31,M,Berlin,Senior,Head of AI,5,Python,150000.0,0.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-04 20:37:47,35,M,Hamburg,Middle,Manager,9,Python,105000.0,100000.0,37.0,Deutsch,1000+,Product,unlimited,2019
 2019-12-04 20:40:28,29,M,Berlin,Senior,DevOps,8,Kubernetes,85000.0,70000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-04 20:45:16,38,M,Cork,Senior,Software Architect,15,SQL,100000.0,78000.0,28.0,English,1000+,Product,unlimited,2019
@@ -498,14 +459,12 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-04 22:07:34,32,M,Berlin,Senior,Machine Learning Engineer,7,Python,105000.0,0.0,30,English,1000+,Product,unlimited,2019
 2019-12-04 22:07:52,33,M,Berlin,Junior,Support,2,Not Relevant,36000.0,30000.0,25.0,Deutsch,100-1000,Product,unlimited,2019
 2019-12-04 22:09:11,31,M,Munich,Senior,QA,8,Java,73000.0,0.0,28.0,English,100-1000,Product,unlimited,2019
-2019-12-04 22:11:43,32,M,Zug,Senior,Backend Developer,12,Java,216000.0,0.0,30.0,Deutsch,100-1000,Product,unlimited,2019
 2019-12-04 22:17:52,30,M,Berlin,Middle,Data Scientist,8,Python,90000.0,0.0,27.0,English,100-1000,Product,unlimited,2019
 2019-12-04 22:28:46,35,M,Berlin,Middle,Business Analyst,7,SQL,57000.0,46000.0,26.0,English,100-1000,Startup,1Y,2019
 2019-12-04 22:29:40,32,M,Amsterdam,Senior,Data Scientist,3,R,60000.0,48000.0,24.0,Dutch,1000+,Consulting / Agency,unlimited,2019
 2019-12-04 22:31:12,30,M,Berlin,Senior,Data Scientist,4,SQL,66000.0,50000.0,25.0,English,100-1000,Startup,unlimited,2019
 2019-12-04 22:48:15,26,M,Frankfurt,Junior,Business Analyst,1,Not Relevant,44000.0,0.0,28.0,Deutsch,1000+,Consulting / Agency,unlimited,2019
 2019-12-04 22:52:47,32,M,Berlin,Senior,Backend Developer,15,PHP,58000.0,58.0,30.0,English,100-1000,Product,unlimited,2019
-2019-12-04 22:56:12,32,M,Berlin,Senior,Researcher,9,Python,112000.0,0.0,30,English,1000+,Product,unlimited,2019
 2019-12-04 23:10:59,23,M,Cologne,Junior,Fullstack Developer,1,Java,30000.0,0.0,30,Deutsch,upto-10,Startup,1Y,2019
 2019-12-04 23:12:54,26,M,Amsterdam,Middle,Data Scientist,5,Python,85000.0,0.0,30,English,100-1000,Product,unlimited,2019
 2019-12-04 23:22:22,44,M,Hamburg,Senior,"CTO (CEO, CFO)",15,PHP,100000.0,0.0,28.0,Deutsch,100-1000,Product,unlimited,2019
@@ -513,7 +472,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-05 00:03:16,37,M,Berlin,Senior,Manager,15,Python,80000.0,0.0,28.0,English,100-1000,Startup,unlimited,2019
 2019-12-05 00:04:58,46,M,Hamburg,Senior,Fullstack Developer,11,Java,60000.0,53000.0,30.0,Deutsch,10-50,Product,1Y+,2019
 2019-12-05 00:07:27,28,M,Munich,Middle,Data Engineer,4,Python,60000.0,60000.0,30.0,English,10-50,Consulting / Agency,unlimited,2019
-2019-12-05 00:27:04,41,M,Heidelberg,Senior,Data Scientist,10,Python,133000.0,127000.0,28.0,English,50-100,Startup,unlimited,2019
 2019-12-05 00:46:31,24,M,Brussels,Junior,Data Scientist,2,Python,33000.0,0.0,31.0,French,1000+,Consulting / Agency,unlimited,2019
 2019-12-05 00:47:21,32,M,Munich,Senior,Manager,16,R,64000.0,0.0,29.0,English,1000+,Consulting / Agency,1Y+,2019
 2019-12-05 00:47:52,32,M,Munich,Senior,Manager,16,R,64000.0,0.0,29.0,English,1000+,Consulting / Agency,1Y+,2019
@@ -569,7 +527,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-05 13:52:15,34,M,Berlin,Senior,Manager,10,Not Relevant,66000.0,0.0,30.0,English,1000+,Bodyshop / Outsource,unlimited,2019
 2019-12-05 13:54:32,39,M,Berlin,Senior,Data Engineer,3,SQL,63000.0,56000.0,26.0,English,100-1000,Startup,unlimited,2019
 2019-12-05 14:01:04,32,F,Berlin,Senior,QA,11,Not Relevant,72500.0,0.0,28.0,English,100-1000,Consulting / Agency,unlimited,2019
-2019-12-05 14:10:19,39,M,Dubai,Senior,Researcher,18,Python,120000.0,120000.0,20.0,English,1000+,Startup,1Y+,2019
 2019-12-05 14:16:49,34,M,Berlin,Senior,Data Scientist,4,R,67000.0,67000.0,27.0,English,100-1000,Product,unlimited,2019
 2019-12-05 14:23:38,27,M,Munich,Senior,Data Scientist,7,Python,90000.0,75000.0,28.0,English,100-1000,Product,unlimited,2019
 2019-12-05 14:29:09,30,M,Munich,Senior,Backend Developer,10,PHP,80000.0,0.0,31.0,English,1000+,Product,unlimited,2019
@@ -586,10 +543,8 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-05 18:33:01,35,M,Munich,Senior,Database Developer (DBA),14,Not Provided,68000.0,0.0,30.0,English,100-1000,Consulting / Agency,unlimited,2019
 2019-12-05 19:02:28,33,F,Berlin,Middle,Data Scientist,1,Python,50000.0,45000.0,30.0,English,100-1000,Startup,unlimited,2019
 2019-12-05 19:07:30,32,F,Berlin,Senior,QA,8,Python,42000.0,0.0,26.0,English,100-1000,Product,unlimited,2019
-2019-12-05 19:09:28,25,M,Moscow,Middle,Frontend Developer,3,Javascript / Typescript,24000.0,17000.0,40.0,Russian,1000+,Product,unlimited,2019
 2019-12-05 19:16:09,27,F,Düsseldorf,Junior,Data Scientist,1,Python,60000.0,0.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-05 19:31:49,36,M,Hamburg,Lead,Machine Learning Engineer,5,Python,85000.0,75000.0,30.0,Deutsch,10-50,Consulting / Agency,unlimited,2019
-2019-12-05 19:33:03,33,M,Berlin,Senior,Head of Engineering,16,Not Relevant,115000.0,95000.0,28.0,English,100-1000,Product,unlimited,2019
 2019-12-05 20:07:56,42,M,Munich,Middle,DevOps,7,AWS,63000.0,0.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-05 20:20:22,32,M,Berlin,Middle,Backend Developer,2,Java,53900.0,49000.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-05 20:57:02,37,M,Munich,Senior,Backend Developer,14,C/C++,72000.0,0.0,27.0,English,100-1000,Product,unlimited,2019
@@ -597,7 +552,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-05 21:21:47,42,M,Frankfurt,Senior,Manager,18,Not Relevant,83000.0,75000.0,30.0,Deutsch,1000+,Consulting / Agency,unlimited,2019
 2019-12-05 21:34:35,37,M,Hamburg,Senior,Backend Developer,12,Java,72000.0,65000.0,29.0,English,100-1000,Product,unlimited,2019
 2019-12-05 21:52:03,34,M,Munich,Senior,Backend Developer,12,Java,73000.0,0.0,30.0,English,1000+,Product,unlimited,2019
-2019-12-05 22:11:37,32,M,Munich,Principal,Backend Developer,11,Java,115000.0,0.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-05 22:13:22,32,F,Stuttgart,Senior,SAP Consultant,7,Not Relevant,96000.0,0.0,30,Deutsch,100-1000,Product,unlimited,2019
 2019-12-05 22:22:55,32,M,Berlin,Senior,Backend Developer,12,Ruby,75000.0,65000.0,25.0,English,100-1000,Product,unlimited,2019
 2019-12-05 22:32:20,33,M,Zurich,Senior,Backend Developer,6,Java,110000.0,0.0,20.0,Deutsch,100-1000,Consulting / Agency,unlimited,2019
@@ -624,11 +578,9 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-06 10:19:22,32,M,Berlin,Senior,Machine Learning Engineer,6,Python,102000.0,0.0,30.0,Deutsch,1000+,Product,unlimited,2019
 2019-12-06 10:22:12,32,M,Hamburg,Senior,Mobile Developer,10,.NET,80000.0,0.0,25.0,English,100-1000,Startup,unlimited,2019
 2019-12-06 10:23:25,32,F,Berlin,Senior,Manager,7,Not Relevant,90000.0,0.0,28.0,English,1000+,Product,unlimited,2019
-2019-12-06 10:40:25,32,M,Amsterdam,Lead,Data Scientist,11,Python,128000.0,0.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-06 11:05:29,28,M,Munich,Senior,Fullstack Developer,3,Not Relevant,63000.0,53000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-06 11:14:46,28,M,Berlin,Lead,Frontend Developer,8,Javascript / Typescript,82000.0,65000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-06 12:07:50,26,M,Munich,Middle,Fullstack Developer,5,Javascript / Typescript,50000.0,0.0,25.0,English,1000+,Product,unlimited,2019
-2019-12-06 12:51:07,32,M,Munich,Senior,Software Architect,9,Java,120000.0,0.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-06 13:58:31,39,M,Berlin,Middle,Backend Developer,9,Java,64800.0,0.0,25.0,English,100-1000,Consulting / Agency,unlimited,2019
 2019-12-06 14:18:14,28,F,Berlin,Senior,Backend Developer,6,Ruby,55000.0,0.0,28.0,English,10-50,Product,unlimited,2019
 2019-12-06 14:19:12,48,M,Berlin,Senior,Backend Developer,15,Java,65000.0,64000.0,29.0,Deutsch,100-1000,Bodyshop / Outsource,unlimited,2019
@@ -637,17 +589,13 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-06 14:43:54,32,M,Munich,Lead,Machine Learning Engineer,9,Python,110000.0,0.0,30.0,Deutsch,100-1000,Startup,unlimited,2019
 2019-12-06 18:19:13,30,F,Berlin,Middle,Software Engineer,7,AWS,66000.0,61000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-06 19:04:23,38,M,Dresden,Senior,Embedded Developer,8,C/C++,55000.0,54000.0,30,Deutsch,100-1000,Product,unlimited,2019
-2019-12-06 19:42:08,27,M,Berlin,Senior,Data Scientist,5,Python,125000.0,110000.0,20.0,Russian,100-1000,Consulting / Agency,unlimited,2019
 2019-12-06 19:50:20,27,F,Berlin,Middle,Cloud Platform Engineer,6,AWS,70000.0,54000.0,32.0,English,1000+,Product,unlimited,2019
 2019-12-06 20:14:09,37,M,Lugano,Middle,Fullstack Developer,3,.NET,84000.0,84000.0,30,Italian,10-50,Product,unlimited,2019
 2019-12-06 20:53:53,30,M,Berlin,Middle,Fullstack Developer,2,Java,51072.0,0.0,30.0,Deutsch,100-1000,Consulting / Agency,unlimited,2019
 2019-12-06 22:19:00,32,M,Berlin,Senior,Backend Developer,8,Python,80000.0,0.0,30.0,English,1000+,Product,unlimited,2019
-2019-12-06 22:25:34,32,M,Berlin,Head,Data Scientist,10,Python,130000.0,0.0,30.0,English,50-100,Startup,unlimited,2019
 2019-12-06 22:32:00,35,M,Frankfurt,Senior,Backend Developer,16,C/C++,110000.0,103000.0,29.0,English,100-1000,Product,unlimited,2019
 2019-12-06 22:37:07,34,M,Berlin,Senior,Backend Developer,14,Rust,86000.0,81000.0,25.0,English,50-100,Startup,1Y,2019
-2019-12-06 22:43:34,27,M,Berlin,Head,"CTO (CEO, CFO)",6,Python,24000.0,24000.0,4.0,English,10-50,Startup,unlimited,2019
 2019-12-06 22:47:34,38,F,Stuttgart,Senior,Embedded Developer,14,C/C++,82000.0,79000.0,32.0,Deutsch,100-1000,Product,unlimited,2019
-2019-12-06 22:50:38,41,M,Berlin,Senior,Crypto Developer,20,Solidity,140000.0,115000.0,20.0,English,upto-10,Consulting / Agency,unlimited,2019
 2019-12-07 00:40:44,32,F,Berlin,Senior,Backend Developer,13,PHP,64000.0,63000.0,27.0,English,100-1000,Startup,unlimited,2019
 2019-12-07 09:33:27,29,M,Munich,Senior,Embedded Developer,4,ASM,74000.0,63000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-07 09:39:37,31,F,Berlin,Middle,Data Scientist,1,Python,59000.0,56000.0,30.0,English,100-1000,Consulting / Agency,unlimited,2019
@@ -670,7 +618,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-08 14:22:03,33,M,Cologne,Middle,Data Scientist,3,Python,50000.0,0.0,25.0,English,10-50,Startup,1Y+,2019
 2019-12-08 15:03:59,35,M,Stuttgart,Senior,Backend Developer,6,PHP,60600.0,54000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-08 15:15:27,32,M,Berlin,Lead,Data Scientist,9,Python,107000.0,0.0,28.0,English,1000+,Product,unlimited,2019
-2019-12-08 15:50:38,33,M,Munich,Senior,Backend Developer,12,Java,120000.0,115000.0,30.0,Deutsch,100-1000,Consulting / Agency,unlimited,2019
 2019-12-08 17:46:54,35,M,Berlin,Senior,Backend Developer,10,Java,84000.0,84000.0,28.0,English,100-1000,Product,unlimited,2019
 2019-12-08 19:46:33,38,M,Walldorf,Senior,Fullstack Developer,17,Javascript / Typescript,79000.0,0.0,30.0,Deutsch,1000+,Product,unlimited,2019
 2019-12-08 20:32:15,30,M,Berlin,Senior,Backend Developer,7,Python,87000.0,80000.0,30.0,English,50-100,Startup,unlimited,2019
@@ -686,7 +633,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-09 11:27:36,33,M,Berlin,Senior,Frontend Developer,8,Javascript / Typescript,70000.0,56000.0,24.0,English,10-50,Startup,unlimited,2019
 2019-12-09 11:58:49,38,M,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,75000.0,75000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-09 12:17:25,35,M,Berlin,Senior,Fullstack Developer,16,Javascript / Typescript,95000.0,80000.0,28.0,English,100-1000,Product,unlimited,2019
-2019-12-09 12:28:47,21,M,Moscow,Middle,Data Scientist,4,Python,28300.0,7200.0,28.0,English,100-1000,Consulting / Agency,1Y,2019
 2019-12-09 12:40:50,43,M,Schleswig-Holstein,Senior,Backend Developer,25,.NET,93000.0,92000.0,30.0,Deutsch,100-1000,Product,unlimited,2019
 2019-12-09 13:18:27,33,M,Berlin,Middle,Data Scientist,3,Scala,77000.0,70000.0,26.0,English,100-1000,Startup,unlimited,2019
 2019-12-09 13:25:41,30,M,Berlin,Middle,Backend Developer,4,SAP / ABAP,51600.0,0.0,30.0,English,10-50,Consulting / Agency,unlimited,2019
@@ -696,7 +642,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-09 16:54:48,41,M,Munich,Senior,Machine Learning Engineer,12,C/C++,82000.0,78000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-09 17:54:43,29,M,Munich,Middle,Data Scientist,2,Python,63000.0,55000.0,27.0,Deutsch,1000+,Product,unlimited,2019
 2019-12-09 18:25:32,24,M,Berlin,Middle,Fullstack Developer,3,Javascript / Typescript,56000.0,0.0,24.0,English,50-100,Product,unlimited,2019
-2019-12-09 19:15:11,31,M,Berlin,Lead,Backend Developer,10,Java,115000.0,107000.0,30.0,English,100-1000,Startup,unlimited,2019
 2019-12-09 20:26:47,30,M,Berlin,Senior,Backend Developer,8,Javascript / Typescript,65000.0,0.0,27.0,Deutsch,10-50,Startup,unlimited,2019
 2019-12-09 21:08:05,34,F,Berlin,Middle,Manager,3,Javascript / Typescript,57000.0,0.0,30,English,100-1000,Product,unlimited,2019
 2019-12-10 07:44:42,29,M,Berlin,Middle,Data Scientist,3,Python,51000.0,51000.0,28.0,English,50-100,Startup,unlimited,2019
@@ -748,8 +693,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-10 16:11:01,32,M,Hilversum,Senior,Fullstack Developer,10,Java,83000.0,65000.0,25.0,English,50-100,Product,unlimited,2019
 2019-12-10 16:15:58,28,M,Hamburg,Senior,Backend Developer,5,Cobol,67000.0,56000.0,30.0,Deutsch,1000+,Product,unlimited,2019
 2019-12-10 16:16:30,32,M,Amsterdam,Middle,Backend Developer,12,Perl,82000.0,78000.0,29.0,English,1000+,Product,unlimited,2019
-2019-12-10 17:21:14,32,M,Munich,Lead,Machine Learning Engineer,12,C/C++,115000.0,0.0,30.0,English,1000+,Product,unlimited,2019
-2019-12-10 17:41:32,49,M,Munich,Senior,DevOps,25,Not Relevant,125000.0,0.0,30.0,Deutsch,1000+,Product,3M,2019
 2019-12-10 17:42:56,30,M,Berlin,Senior,Data Scientist,6,R,75000.0,66000.0,27.0,English,100-1000,Startup,1Y+,2019
 2019-12-10 18:26:17,35,M,Berlin,unknown,Manager,11,Not Relevant,80000.0,75000.0,26.0,English,10-50,Product,1Y+,2019
 2019-12-10 19:33:26,27,F,Amsterdam,Senior,Manager,8,Not Relevant,87000.0,75000.0,29.0,English,1000+,Product,unlimited,2019
@@ -758,11 +701,9 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-10 20:06:47,33,M,Hamburg,Middle,Data Scientist,2,Python,70000.0,0.0,30.0,Deutsch,1000+,Product,unlimited,2019
 2019-12-10 20:59:37,32,M,Munich,Senior,SRE,11,Java,69300.0,66000.0,28.0,Deutsch,100-1000,Product,unlimited,2019
 2019-12-10 21:16:31,31,M,Munich,Senior,Head of Engineering,11,Swift,75000.0,70000.0,22.0,English,50-100,Startup,unlimited,2019
-2019-12-10 21:52:08,28,F,Warsaw,Senior,Fullstack Developer,5,R,155000.0,144000.0,32.0,Polish/English,100-1000,Consulting / Agency,unlimited,2019
 2019-12-10 22:02:10,36,M,Berlin,Senior,Fullstack Developer,7,.NET,70000.0,0.0,30.0,English,50-100,Startup,unlimited,2019
 2019-12-10 22:19:05,32,M,Frankfurt,Junior,Data Scientist,0,Python,55000.0,0.0,30.0,English,50-100,Consulting / Agency,unlimited,2019
 2019-12-10 22:41:06,30,M,Amsterdam,Middle,System Administrator,6,Not Relevant,70000.0,0.0,26.0,English,1000+,Product,unlimited,2019
-2019-12-10 22:55:17,28,M,Gdańsk,Middle,Data Scientist,5,R,14000.0,9000.0,25.0,English,100-1000,Bodyshop / Outsource,unlimited,2019
 2019-12-10 23:19:38,26,M,Amsterdam,Senior,DevOps,6,Not Relevant,68000.0,60000.0,24.0,English,1000+,Product,unlimited,2019
 2019-12-10 23:40:20,37,M,Amsterdam,Middle,Fullstack Developer,18,Perl,82000.0,65000.0,29.0,English,1000+,Product,unlimited,2019
 2019-12-10 23:55:18,48,M,Berlin,Senior,Network Engineer,16,Cisco,67000.0,0.0,24.0,English,1000+,Product,unlimited,2019
@@ -776,8 +717,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-11 09:54:31,34,M,Berlin,Senior,Manager,2,Not Relevant,63600.0,66000.0,45.0,Deutsch,50-100,Product,unlimited,2019
 2019-12-11 09:57:24,24,F,Warsaw,Junior,Modelling Specialist,1,R,72000.0,54000.0,20.0,Polish,1000+,Bank,unlimited,2019
 2019-12-11 10:03:04,28,M,Amsterdam,Senior,SAP Consultant,6,Not Relevant,80500.0,0.0,30.0,English,1000+,Consulting / Agency,1Y,2019
-2019-12-11 10:11:04,31,M,Munich,Lead,Machine Learning Engineer,9,Python,125000.0,115000.0,30.0,Deutsch,100-1000,Startup,unlimited,2019
-2019-12-11 10:21:26,34,M,Zug,Senior,Backend Developer,12,C/C++,160000.0,0.0,25.0,English,10-50,Product,unlimited,2019
 2019-12-11 10:25:33,23,F,Moscow,Middle,Data Engineer,4,Hadoop,32000.0,0.0,28.0,Russian,1000+,Product,unlimited,2019
 2019-12-11 10:54:37,32,M,Düsseldorf,Senior,Data Engineer,7,Python,62000.0,62000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-11 11:26:54,25,F,Moscow,Senior,Frontend Developer,5,Javascript / Typescript,35300.0,0.0,28.0,Russian,50-100,Product,unlimited,2019
@@ -786,47 +725,38 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-11 11:35:29,33,M,Zurich,Senior,Backend Developer,6,PHP,90000.0,0.0,30,English,50-100,Product,1Y+,2019
 2019-12-11 11:53:22,31,F,Amsterdam,Senior,QA,5,Javascript / Typescript,67000.0,54000.0,26.0,English,100-1000,Product,unlimited,2019
 2019-12-11 11:56:43,30,M,Amsterdam,Middle,Backend Developer,10,Java,80000.0,72000.0,25.0,English,50-100,Product,1Y+,2019
-2019-12-11 12:15:48,31,M,Munich,Lead,Machine Learning Engineer,9,Python,125000.0,115000.0,30.0,Deutsch,100-1000,Startup,unlimited,2019
 2019-12-11 12:15:52,30,F,Berlin,Senior,Business Analyst,6,Python,63000.0,57000.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-11 12:16:57,29,M,Berlin,Senior,Data Scientist,7,Python,90000.0,0.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-11 12:18:56,31,M,Frankfurt,Middle,Backend Developer,7,Java,74200.0,70200.0,35.0,English,1000+,Product,unlimited,2019
 2019-12-11 12:29:58,29,M,Amsterdam,Senior,Backend Developer,8,Java,86000.0,75000.0,25.0,English,1000+,Product,unlimited,2019
-2019-12-11 12:33:32,30,M,Munich,Senior,Cloud Platform Engineer,15,Google Cloud,117000.0,115000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-11 12:54:34,24,F,Warsaw,Junior,RPA developer,1,Python,48000.0,0.0,20.0,Polish,1000+,Bank,6M,2019
 2019-12-11 13:07:34,37,M,Almere,Senior,Tech Lead,10,C/C++,57600.0,0.0,25.0,English,10-50,Product,unlimited,2019
 2019-12-11 13:21:41,26,M,Limassol,Senior,QA,7,Not Relevant,63600.0,50000.0,21.0,Russian,50-100,Product,1Y+,2019
 2019-12-11 13:31:46,23,M,Moscow,Middle,Backend Developer,3,Erlang,36819.0,0.0,28.0,Russian,100-1000,Product,unlimited,2019
-2019-12-11 14:20:02,30,M,Vienna,Junior,Frontend Developer,2,Javascript / Typescript,21600.0,25200.0,25.0,English,upto-10,Startup,unlimited,2019
 2019-12-11 14:36:31,34,M,Berlin,Senior,Manager,2,Not Relevant,63600.0,66000.0,45.0,Deutsch,50-100,Product,unlimited,2019
 2019-12-11 14:47:42,35,F,Hamburg,Middle,Data Scientist,3,Python,49000.0,0.0,30.0,Deutsch,100-1000,Consulting / Agency,unlimited,2019
 2019-12-11 14:52:35,33,M,Munich,Senior,Frontend Developer,5,Javascript / Typescript,78000.0,72000.0,30.0,English,50-100,Startup,unlimited,2019
-2019-12-11 16:04:31,32,F,Zurich,Middle,Machine Learning Engineer,8,Java,120000.0,0.0,25.0,English,1000+,Product,1Y+,2019
 2019-12-11 16:12:21,29,M,Stockholm,Senior,Backend Developer,6,C/C++,60000.0,0.0,33.0,English,1000+,Product,unlimited,2019
 2019-12-11 16:46:23,23,M,Tampere,Junior,Frontend Developer,1,Swift,36000.0,0.0,40.0,English,unknown,Product,unlimited,2019
 2019-12-11 17:05:12,39,M,Amsterdam,Senior,Mobile Developer,16,Swift,65000.0,64800.0,24.0,English,50-100,Product,unlimited,2019
 2019-12-11 17:18:28,24,F,Cologne,Junior,Data Scientist,1,Python,49000.0,0.0,25.0,English,upto-10,Consulting / Agency,unlimited,2019
-2019-12-11 18:26:10,30,M,Munich,Senior,Backend Developer,9,Java,112000.0,105000.0,30.0,Deutsch,100-1000,Consulting / Agency,unlimited,2019
 2019-12-11 18:31:22,28,M,Frankfurt,Senior,Data Scientist,6,R,87000.0,75000.0,25.0,Deutsch,100-1000,Startup,1Y+,2019
 2019-12-11 19:46:49,35,M,Berlin,Senior,Backend Developer,10,Javascript / Typescript,68000.0,66000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-11 19:50:15,32,M,Munich,Middle,Frontend Developer,3,Javascript / Typescript,55000.0,0.0,28.0,English,1000+,Product,unlimited,2019
-2019-12-11 20:15:15,40,M,Munich,Senior,Fullstack Developer,15,Java,160000.0,130000.0,20.0,Deutsch,upto-10,Consulting / Agency,1Y,2019
 2019-12-11 21:48:20,38,M,Berlin,Middle,DevOps,15,Python,52000.0,0.0,29.0,English,100-1000,Product,unlimited,2019
 2019-12-11 22:43:50,33,M,Amsterdam,Senior,Manager,15,Not Relevant,80000.0,75000.0,27.0,English,1000+,Consulting / Agency,unlimited,2019
 2019-12-11 22:58:51,32,F,Bayern,Senior,DevOps,19,.NET,100000.0,92000.0,30.0,Deutsch,100-1000,Product,unlimited,2019
 2019-12-12 00:07:19,25,M,Amsterdam,Junior,Backend Developer,2,Kotlin,52500.0,50000.0,28.5,English,1000+,Bank,unlimited,2019
 2019-12-12 00:19:49,33,M,Munich,Senior,Backend Developer,11,Java,68000.0,60000.0,28.0,English,100-1000,Product,unlimited,2019
-2019-12-12 06:58:50,32,M,Munich,Senior,Software Architect,13,Java,112000.0,112000.0,26.0,Deutsch,50-100,Startup,unlimited,2019
 2019-12-12 09:05:21,40,M,Munich,Junior,QA,3,Java,52000.0,1.0,30.0,Deutsch,100-1000,Consulting / Agency,1Y,2019
 2019-12-12 09:25:03,35,M,Munich,Senior,Software Architect,11,AWS,105000.0,77000.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-12 09:26:15,41,M,Munich,Senior,Backend Developer,20,Java,75000.0,75000.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-12 12:05:57,31,M,Düsseldorf,Senior,Backend Developer,11,Python,82500.0,76300.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-12 12:34:51,34,F,Kyiv,Senior,Researcher,13,C/C++,38400.0,0.0,27.0,English,100-1000,University,unlimited,2019
 2019-12-12 15:08:00,32,M,Amsterdam,Junior,Fullstack Developer,1,C/C++,39600.0,0.0,25.0,English,upto-10,Startup,1Y+,2019
-2019-12-12 15:11:22,45,F,Munich,Senior,Backend Developer,20,C/C++,200000.0,200000.0,26.0,Deutsch,100-1000,Product,unlimited,2019
 2019-12-12 15:51:07,37,M,Berlin,Middle,Backend Developer,3,Ruby,54000.0,54000.0,28.0,English,50-100,Startup,unlimited,2019
 2019-12-12 17:59:24,31,M,Berlin,Senior,Data Scientist,8,Python,98000.0,90000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-12 18:23:53,33,M,Munich,Senior,Backend Developer,8,Java,68000.0,0.0,30.0,English,100-1000,Product,unlimited,2019
-2019-12-12 19:44:49,34,M,Munich,Senior,Manager,13,Java,125000.0,0.0,32.0,Deutsch,100-1000,Product,unlimited,2019
 2019-12-12 20:42:46,42,M,Munich,Senior,Fullstack Developer,20,.NET,63000.0,60000.0,30.0,Deutsch,upto-10,Product,unlimited,2019
 2019-12-13 07:38:58,25,M,Berlin,Middle,Fullstack Developer,3,PHP,30000.0,27500.0,27.0,Deutsch,10-50,Startup,unlimited,2019
 2019-12-13 11:08:41,32,M,Berlin,Senior,Fullstack Developer,9,AWS,96000.0,0.0,28.0,English,1000+,Product,unlimited,2019
@@ -837,7 +767,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-13 14:30:35,26,M,Berlin,Junior,UX Researcher,2,Not Provided,48000.0,44000.0,21.0,English,1000+,Product,unlimited,2019
 2019-12-13 14:45:27,32,M,Berlin,Senior,Manager,10,Go,88000.0,88000.0,30,English,100-1000,Product,unlimited,2019
 2019-12-13 16:05:06,30,M,Munich,Middle,Data Scientist,2,Python,68500.0,60000.0,31.0,Deutsch,1000+,Product,unlimited,2019
-2019-12-13 18:50:38,33,M,Munich,Lead,Machine Learning Engineer,12,Python,115000.0,110000.0,30.0,Deutsch,100-1000,Startup,unlimited,2019
 2019-12-13 19:03:38,34,M,Berlin,Senior,Cloud Platform Engineer,13,Azure,66000.0,0.0,27.0,Deutsch,1000+,Consulting / Agency,1Y+,2019
 2019-12-13 22:08:36,52,M,Cologne,Senior,Network Engineer,30,Cisco,60000.0,60000.0,30.0,Deutsch,1000+,Consulting / Agency,unlimited,2019
 2019-12-14 10:37:19,31,M,Berlin,Senior,Data Engineer,10,Python,105000.0,0.0,28.0,English,1000+,Product,unlimited,2019
@@ -870,7 +799,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-16 15:16:40,28,M,Berlin,Junior,Data Scientist,2,Python,75000.0,0.0,30.0,English,10-50,Startup,1Y,2019
 2019-12-16 15:52:58,28,M,Amsterdam,Senior,QA,6,Javascript / Typescript,70000.0,0.0,25.0,English,100-1000,Product,unlimited,2019
 2019-12-16 17:15:07,29,M,Amsterdam,Middle,Backend Developer,9,AWS,70000.0,0.0,22.0,English,100-1000,Product,unlimited,2019
-2019-12-16 23:23:11,22,M,Kyiv,Junior,Data Scientist,1,Python,21600.0,0.0,30,Ukrainian,50-100,Product,unlimited,2019
 2019-12-17 00:06:19,26,M,Munich,Middle,Backend Developer,6,Javascript / Typescript,62000.0,45000.0,30.0,Deutsch,50-100,Consulting / Agency,unlimited,2019
 2019-12-17 10:35:09,40,M,Munich,Senior,Software Architect,22,Java,95000.0,89000.0,30.0,Deutsch,100-1000,Product,unlimited,2019
 2019-12-17 14:26:21,34,M,Munich,Senior,Backend Developer,15,PHP,86000.0,72000.0,30.0,English,1000+,Product,unlimited,2019
@@ -881,7 +809,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-17 22:38:18,32,M,Amsterdam,Middle,Backend Developer,5,C/C++,53000.0,0.0,25.0,English,50-100,Product,unlimited,2019
 2019-12-18 00:12:31,33,F,Berlin,Senior,Backend Developer,6,PHP,62000.0,48000.0,26.0,English,100-1000,Product,unlimited,2019
 2019-12-18 12:35:23,32,M,Berlin,Middle,Backend Developer,5,Java,60000.0,0.0,28.0,English,1000+,Product,unlimited,2019
-2019-12-18 20:46:38,40,M,Munich,Senior,Manager,16,Not Relevant,120000.0,92000.0,30.0,English,100-1000,Product,unlimited,2019
 2019-12-19 09:06:10,23,M,Berlin,Middle,Backend Developer,4,Javascript / Typescript,58000.0,0.0,27.0,English,100-1000,Startup,unlimited,2019
 2019-12-19 10:53:57,28,M,Koblenz,Junior,Frontend Developer,2,Javascript / Typescript,48000.0,0.0,28.0,Deutsch,1000+,Product,unlimited,2019
 2019-12-19 11:38:19,28,M,Würzburg ,Middle,Fullstack Developer,6,Javascript / Typescript,72000.0,60000.0,27.0,Deutsch,10-50,Startup,unlimited,2019
@@ -896,7 +823,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-20 10:48:31,30,M,Amsterdam,Senior,Frontend Developer,12,Javascript / Typescript,77700.0,58000.0,25.0,English,100-1000,Startup,1Y,2019
 2019-12-20 10:49:14,37,M,Amsterdam,Senior,DevOps,15,Not Relevant,80000.0,80000.0,24.0,English,1000+,Product,unlimited,2019
 2019-12-20 10:50:51,35,M,Berlin,Senior,SRE,13,Kubernetes,85000.0,69000.0,28.0,English,50-100,Product,unlimited,2019
-2019-12-20 10:53:07,30,M,Zurich,Middle,SRE,6,Python,150000.0,0.0,25.0,English,1000+,Product,unlimited,2019
 2019-12-20 10:55:41,35,M,Amsterdam,Senior,Backend Developer,15,C/C++,82500.0,75000.0,30.0,English,upto-10,Product,unlimited,2019
 2019-12-20 10:57:14,30,M,Bremen,Junior,Backend Developer,2,Python,52000.0,52000.0,27.0,Deutsch,10-50,Product,unlimited,2019
 2019-12-20 11:01:59,31,M,Munich,Senior,Mobile Developer,5,Kotlin,60000.0,60000.0,38.0,English,50-100,Product,unlimited,2019
@@ -939,7 +865,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-21 11:42:15,37,M,Berlin,Lead,Backend Developer,17,Python,75000.0,73000.0,30.0,English,1000+,Product,unlimited,2019
 2019-12-21 12:17:26,35,F,Berlin,Middle,QA,3,Java,40000.0,37000.0,28.0,English,100-1000,Product,unlimited,2019
 2019-12-21 15:01:03,28,F,Berlin,Senior,Mobile Developer,7,Kotlin,65000.0,60000.0,27.0,English,100-1000,Product,unlimited,2019
-2019-12-21 16:25:18,21,M,Nizhny Novgorod ,Junior,Mobile Developer,1,Kotlin,6000.0,0.0,30.0,Russian,50-100,Outsource,1Y,2019
 2019-12-22 00:12:10,33,M,Berlin,Senior,Fullstack Developer,10,Javascript / Typescript,89000.0,83000.0,30.0,English,50-100,Product,unlimited,2019
 2019-12-22 13:00:48,32,F,Stuttgart,Middle,Manager,3,Not Relevant,51000.0,42000.0,25.0,English,10-50,Product,unlimited,2019
 2019-12-22 13:11:06,27,M,Berlin,Senior,Backend Developer,8,Rust,82000.0,65000.0,28.0,English,50-100,Startup,unlimited,2019
@@ -947,11 +872,8 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2019-12-22 22:43:09,32,M,Berlin,Senior,Data Scientist,10,Python,110000.0,102000.0,28.0,English,1000+,Product,unlimited,2019
 2019-12-23 12:04:48,26,M,Kyiv,Senior,Mobile Developer,5,Kotlin,34000.0,29500.0,25.0,English,50-100,Product,1Y,2019
 2019-12-23 13:10:31,29,F,Berlin,Middle,Backend Developer,6,Java,52000.0,0.0,27.0,English,100-1000,Product,unlimited,2019
-2019-12-24 21:03:43,24,M,Munich,Senior,Platform Engineer,10,Go,210000.0,0.0,30,English,1000+,Product,3M,2019
 2019-12-24 22:33:22,33,M,Amsterdam,Middle,Manager,8,Not Relevant,75000.0,0.0,29.0,English,1000+,Product,1Y,2019
 2019-12-25 01:26:40,44,M,Munich,Senior,DevOps,22,Not Provided,101000.0,99000.0,30.0,English,1000+,Product,unlimited,2019
-2019-12-25 08:06:18,28,M,Moscow,Lead,Fullstack Developer,6,PHP,27977.0,22730.0,30,Russian,100-1000,Product,unlimited,2019
-2019-12-25 09:23:57,21,M,Saint-Petersburg ,Middle,Backend Developer,1,Java,15600.0,0.0,28.0,Russian,1000+,Bodyshop / Outsource,1Y+,2019
 2019-12-25 15:32:10,25,M,Amsterdam,Senior,Backend Developer,6,Javascript / Typescript,75000.0,60000.0,25.0,English,100-1000,Product,unlimited,2019
 2019-12-25 18:04:05,33,M,Rotterdam,Senior,QA,11,Java,70000.0,59000.0,25.0,English,100-1000,Product,unlimited,2019
 2019-12-25 19:29:08,30,M,Minsk,Senior,QA,9,Ruby,50000.0,42000.0,20.0,Russian,100-1000,Product,1Y,2019
@@ -992,7 +914,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-01-08 22:20:08,32,M,Frankfurt,Middle,Fullstack Developer,5,Java,63000.0,0.0,30.0,Deutsch,1000+,Consulting / Agency,unlimited,2019
 2020-11-24 11:14:15,26,M,Munich,Senior,Software Engineer,5,TypeScript,80000.0,75000.0,30,English,50-100,Product,unlimited,2020
 2020-11-24 11:14:16,26,M,Berlin,Senior,Backend Developer,7,Ruby,80000.0,82000.0,28,English,100-1000,Product,unlimited,2020
-2020-11-24 11:14:21,29,M,Berlin,Lead,Software Engineer,12,Javascript / Typescript,120000.0,100000.0,30,English,100-1000,Product,temporary,2020
 2020-11-24 11:15:24,28,M,Berlin,Junior,Frontend Developer,4,Javascript,54000.0,0.0,24,English,50-100,Startup,unlimited,2020
 2020-11-24 11:15:46,37,M,Berlin,Senior,Backend Developer,17,C# .NET,62000.0,62000.0,29,English,100-1000,Product,unlimited,2020
 2020-11-24 11:15:53,32,M,Berlin,Senior,DevOps,5,"AWS, GCP, Python,K8s",76000.0,76000.0,30,English,10-50,Startup,unlimited,2020
@@ -1025,7 +946,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 11:27:39,29,F,Berlin,Middle,QA Engineer,7,Not Provided,45000.0,0.0,26,English,50-100,Startup,unlimited,2020
 2020-11-24 11:27:49,39,M,Berlin,Senior,Software Engineer,8,Java,80000.0,80000.0,29,English,50-100,Startup,unlimited,2020
 2020-11-24 11:28:12,27,M,Berlin,Middle,Software Engineer,8,Javascript,63000.0,0.0,24,English,100-1000,Product,unlimited,2020
-2020-11-24 11:28:14,33,M,Berlin,Lead,Data Scientist,5,Python,150000.0,81000.0,24,English,1000+,Product,unlimited,2020
 2020-11-24 11:28:58,28,F,Berlin,Middle,Designer (UI/UX),7,Figma,45000.0,37000.0,28,German,1000+,Product,unlimited,2020
 2020-11-24 11:29:18,30,M,Berlin,Senior,Software Engineer,8,JavaScript,80000.0,72000.0,28,English,100-1000,Product,unlimited,2020
 2020-11-24 11:29:38,28,M,Berlin,Senior,Backend Developer,5,Kotlin,75000.0,58000.0,25,English,100-1000,Startup,unlimited,2020
@@ -1097,7 +1017,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 11:54:06,25,M,Munich,Middle,Software Engineer,3,Java,62000.0,55000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 11:54:18,36,M,Berlin,Senior,Frontend Developer,12,JavaScript,72000.0,72000.0,26,English,upto-10,Startup,unlimited,2020
 2020-11-24 11:54:32,27,M,Munich,Senior,QA Engineer,5,Swift,58000.0,58000.0,30,English,1000+,Product,unlimited,2020
-2020-11-24 11:55:06,35,M,Frankfurt,Senior,ML Engineer,12,ML,120000.0,90000.0,30,English,1000+,Product,unlimited,2020
 2020-11-24 11:55:07,37,M,Munich,Senior,Software Engineer,15,php,75000.0,72500.0,30,German,100-1000,Product,unlimited,2020
 2020-11-24 11:55:33,26,M,Munich,Middle,Data Scientist,3,Python,65000.0,52000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 11:55:57,33,M,Frankfurt,Middle,Solution Architect,6,Python,85000.0,78000.0,28,English,1000+,Product,unlimited,2020
@@ -1121,7 +1040,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 12:01:59,31,M,Berlin,Senior,Frontend Developer,8,JavaScript/TypeScript,70000.0,0.0,24,English,100-1000,Startup,unlimited,2020
 2020-11-24 12:02:04,37,M,Munich,Senior,Backend Developer,12,php,62000.0,60000.0,28,English,100-1000,Product,unlimited,2020
 2020-11-24 12:04:10,30,M,Berlin,Lead,Software Engineer,10,Python,78000.0,75000.0,30,English,100-1000,Startup,unlimited,2020
-2020-11-24 12:04:15,34,M,Munich,Lead,unknown,17,Java,120000.0,110000.0,32,German,1000+,Consulting / Agency,unlimited,2020
 2020-11-24 12:06:20,25,M,Munich,Senior,Backend Developer,5,Java,75000.0,0.0,24,English,100-1000,Product,unlimited,2020
 2020-11-24 12:06:41,36,M,Berlin,Senior,Backend Developer,19,PHP,69000.0,69000.0,28,English,100-1000,Product,unlimited,2020
 2020-11-24 12:06:58,40,M,Berlin,Middle,Frontend Developer,7,Javascript,54000.0,54000.0,24,English,10-50,Product,unlimited,2020
@@ -1131,7 +1049,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 12:07:44,34,M,Berlin,Senior,QA Engineer,10,Java,75000.0,65000.0,28,English,100-1000,Startup,unlimited,2020
 2020-11-24 12:07:47,30,M,Berlin,Senior,Backend Developer,6,Ruby,75000.0,65000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 12:08:51,35,M,Berlin,Senior,Software Engineer,12,C#,70000.0,0.0,25,English,1000+,Product,unlimited,2020
-2020-11-24 12:09:03,34,M,Munich,Senior,Cloud Architect,10,"Azure, SAP",120000.0,70000.0,30,English,1000+,Cloud,unlimited,2020
 2020-11-24 12:09:06,35,M,Berlin,Senior,Designer (UI/UX),10,Not Provided,70000.0,65000.0,25,English,50-100,Product,unlimited,2020
 2020-11-24 12:09:31,35,M,Berlin,Middle,System Administrator,14,Not Provided,44000.0,0.0,27,English,100-1000,Startup,temporary,2020
 2020-11-24 12:09:50,28,M,Hamburg,Senior,Software Engineer,7,Scala,80000.0,0.0,30,English,100-1000,Product,unlimited,2020
@@ -1142,7 +1059,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 12:12:16,28,M,Berlin,Middle,Product Manager,3,Not Provided,51000.0,0.0,27,English,50-100,Product,unlimited,2020
 2020-11-24 12:12:35,25,M,Berlin,Middle,Backend Developer,4,Python,60000.0,60000.0,24,English,10-50,Startup,unlimited,2020
 2020-11-24 12:13:24,42,F,Berlin,Middle,QA Engineer,20,python,55000.0,0.0,30,English,1000+,Product,unlimited,2020
-2020-11-24 12:14:03,30,M,Berlin,Head,Product Manager,7,Not Provided,150000.0,0.0,25,English,1000+,Startup,unlimited,2020
 2020-11-24 12:14:23,40,F,Munich,Middle,Software Engineer,20,Java,54000.0,54000.0,30,German,100-1000,Behörde,unlimited,2020
 2020-11-24 12:14:27,36,F,Erlangen,Middle,Project Manager,14,Not Provided,62000.0,36000.0,30,English,1000+,Product,unlimited,2020
 2020-11-24 12:14:52,37,M,Berlin,Junior,Software Engineer,8,Java,60000.0,0.0,28,English,50-100,Product,unlimited,2020
@@ -1157,7 +1073,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 12:21:10,31,M,Berlin,Senior,Frontend Developer,10,Javascript,71060.0,67500.0,28,English,50-100,Startup,unlimited,2020
 2020-11-24 12:21:33,33,F,Berlin,Middle,QA Engineer,6,Java,60000.0,0.0,28,English,100-1000,Startup,unlimited,2020
 2020-11-24 12:21:45,40,M,Berlin,VP,VP Engineering,10,JS,100000.0,0.0,24,English,50-100,Product,unlimited,2020
-2020-11-24 12:23:06,28,M,Moldova,Middle,Backend Developer,4,Java ,28000.0,0.0,30,English,50-100,Startup,unlimited,2020
 2020-11-24 12:23:47,28,M,Munich,Senior,Backend Developer,6,Java,70000.0,57000.0,30,English,100-1000,Consulting / Agency,unlimited,2020
 2020-11-24 12:23:50,46,M,Munich,Senior,Agile Coach,4,Not Provided,82000.0,78000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 12:26:12,31,M,Berlin,Senior,Software Engineer,9,Python,90000.0,80000.0,30,English,1000+,Product,unlimited,2020
@@ -1176,14 +1091,11 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 12:36:13,36,M,Rosenheim,Manager,Data Science Manager,12,Python,89200.0,0.0,30,English,1000+,Construction,unlimited,2020
 2020-11-24 12:37:20,35,M,Berlin,Senior,Product Manager,10,php,90000.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 12:38:26,47,M,Munich,Senior,DevOps,20,Not Provided,75000.0,0.0,30,unknown,1000+,Product,unlimited,2020
-2020-11-24 12:40:25,31,M,Berlin,Lead,Data Scientist,10,Python ,115000.0,115000.0,28,English,1000+,Product,unlimited,2020
 2020-11-24 12:41:45,46,M,Munich,Senior,Scrum Master,12,Agile,85000.0,88000.0,30,German,1000+,Product,unlimited,2020
 2020-11-24 12:44:38,26,M,Berlin,Senior,Mobile Developer,6,Kotlin,70000.0,65000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 12:44:58,31,M,Mannheim ,Senior,Firmware Engineer,10,C,45000.0,0.0,30,English,10-50,Product,temporary,2020
 2020-11-24 12:47:46,31,M,Munich,Lead,Frontend Developer,12,"TypeScript, JavaScript",85000.0,75000.0,29,English,10-50,Startup,unlimited,2020
 2020-11-24 12:48:17,30,F,Berlin,Middle,QA Engineer,5,Python ,50000.0,50000.0,30,German,100-1000,Product,unlimited,2020
-2020-11-24 12:50:06,35,M,Munich,Lead,Software Engineer,13,Pegasystems platform ,140000.0,132000.0,28,English,50-100,Consulting / Agency,unlimited,2020
-2020-11-24 12:51:24,33,M,Berlin,Senior,Software Engineer,12,Javascript,120000.0,65000.0,28,English,100-1000,Product,temporary,2020
 2020-11-24 12:52:56,36,M,Berlin,Middle,Software Engineer,7,"C++, Java, Embedded C",42000.0,42000.0,25,English/German,upto-10,Product,unlimited,2020
 2020-11-24 12:54:46,36,M,Munich,Lead,Solutions Architect,12,Cloud,105000.0,105000.0,28,English,1000+,Product,unlimited,2020
 2020-11-24 12:55:11,40,M,Munich,Senior,Software Engineer,13,Not Provided,77000.0,0.0,30,English,1000+,Product,unlimited,2020
@@ -1262,15 +1174,12 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 14:42:18,34,M,Leipzig,Senior,Mobile Developer,14,Android,60000.0,52000.0,23,English,100-1000,Consulting / Agency,unlimited,2020
 2020-11-24 14:47:18,29,M,Berlin,Senior,Backend Developer,9,Java,85000.0,66000.0,30,English,1000+,Product,unlimited,2020
 2020-11-24 14:49:06,37,M,Berlin,Senior,Frontend Developer,14,Angular,84000.0,82000.0,30,English,1000+,IT Department of established business,unlimited,2020
-2020-11-24 14:49:52,41,M,Munich,Senior,Senior Program Manager,19,Autonomous Driving,123600.0,120000.0,33,English,100-1000,Product,unlimited,2020
 2020-11-24 14:52:12,33,M,Mannheim,Middle,Software Engineer,6,c#,49000.0,48000.0,28,English,50-100,Startup,unlimited,2020
 2020-11-24 14:54:48,33,F,Berlin,Middle,QA Engineer,9,Java,57000.0,54000.0,21,English,100-1000,Startup,unlimited,2020
 2020-11-24 14:56:33,40,M,Munich,Lead,QA Engineer,18,Java,78000.0,76000.0,30,German,1000+,Product,unlimited,2020
 2020-11-24 14:58:11,38,M,Munich,Senior,Backend Developer,12,Java,70000.0,68000.0,30,German,100-1000,Telecommunications,unlimited,2020
 2020-11-24 15:03:12,29,M,Munich,Middle,Frontend Developer,5,"Js, TypeScript, Angular",57000.0,57000.0,26,English,100-1000,Product,unlimited,2020
 2020-11-24 15:04:23,27,M,Berlin,Senior,Backend Developer,7,go,72000.0,0.0,30,English,10-50,Product,unlimited,2020
-2020-11-24 15:05:21,39,M,Berlin,Lead,Product Manager,10,Not Provided,120000.0,120000.0,25,English,1000+,Product,unlimited,2020
-2020-11-24 15:07:35,33,M,Frankfurt,Senior,Software Engineer,10,.NET,26400.0,0.0,30,English,upto-10,Startup,unlimited,2020
 2020-11-24 15:07:35,28,M,Berlin,Senior,Frontend Developer,8,Javascript,68000.0,0.0,30,unknown,unknown,Product,unlimited,2020
 2020-11-24 15:08:28,33,F,Munich,Senior,QA Engineer,6,Not Provided,58000.0,55000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 15:09:28,38,M,Munich,Lead,ML Engineer,10,Python,92000.0,85000.0,30,English,50-100,Consulting / Agency,unlimited,2020
@@ -1308,7 +1217,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 16:42:53,44,M,Stuttgart,Senior,Software Engineer,22,Erlang,76000.0,76000.0,30,English,50-100,Startup,unlimited,2020
 2020-11-24 16:56:17,30,M,Munich,Middle,Frontend Developer,9,TypeScript,66000.0,64000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 17:01:00,26,M,Frankfurt,Middle,Consultant,4,JavaScript,65000.0,55000.0,30,German,100-1000,Consulting / Agency,unlimited,2020
-2020-11-24 17:03:03,33,M,Hamburg,Middle,Software Engineer,1,Scala,130000.0,0.0,30,English,1000+,Product,unlimited,2020
 2020-11-24 17:04:09,46,M,Berlin,Senior,Software Engineer,14,JavaScript,80000.0,63000.0,30,English,50-100,Product,unlimited,2020
 2020-11-24 17:05:17,33,M,Berlin,Senior,Software Engineer,14,PHP,68000.0,68000.0,30,English,50-100,Product,unlimited,2020
 2020-11-24 17:08:51,27,M,Tuttlingen,Junior,Software Engineer,4,C#,46000.0,43000.0,30,German,upto-10,Product,unlimited,2020
@@ -1323,7 +1231,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 17:29:51,32,M,Munich,Middle,Data Scientist,2,Python ,54000.0,54000.0,20,English,50-100,Product,unlimited,2020
 2020-11-24 17:30:40,32,M,Munich,Senior,QA Engineer,9,QA,76000.0,0.0,28,English,100-1000,Product,unlimited,2020
 2020-11-24 17:31:48,34,M,Berlin,Senior,Software Engineer,10,C++,76000.0,73000.0,30,English,100-1000,Product,unlimited,2020
-2020-11-24 17:33:40,31,M,Moscow,Lead,Data Scientist,2,Python,20000.0,17000.0,30,Russian,1000+,Bank,unlimited,2020
 2020-11-24 17:35:27,29,M,Munich,Senior,Software Engineer,7,TypeScript,80000.0,0.0,30,English,10-50,Startup,unlimited,2020
 2020-11-24 17:35:46,33,M,Munich,Senior,Software Engineer,10,C#,78000.0,65000.0,30,German,50-100,Product,unlimited,2020
 2020-11-24 17:37:32,32,M,Berlin,Senior,Backend Developer,4,Ruby,65000.0,0.0,28,English,50-100,Product,unlimited,2020
@@ -1340,7 +1247,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 17:47:42,27,M,Munich,Senior,Software Engineer,5,Typescript / Angular,71000.0,66000.0,30,English,1000+,Product,unlimited,2020
 2020-11-24 17:51:26,27,M,Munich,Senior,Software Engineer,5,Javascript,65000.0,65000.0,22,English,50-100,Product,unlimited,2020
 2020-11-24 17:53:18,38,M,Koblenz,Senior,Systemadministrator,20,Not Provided,44000.0,42000.0,25,German,10-50,Systemhaus,unlimited,2020
-2020-11-24 17:55:30,22,M,Warsaw,Middle,Backend Developer,3,PHP,27000.0,0.0,21,Polish,50-100,Consulting / Agency,unlimited,2020
 2020-11-24 17:57:20,30,M,Berlin,Lead,DevOps,9,Kubernetes,90000.0,80000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 17:57:39,30,M,Hamburg,Middle,Software Engineer,6,.NET,60000.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 18:01:03,29,M,Munich,Senior,SW Architect,8,C++,73000.0,59000.0,30,English,1000+,Product,unlimited,2020
@@ -1356,7 +1262,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 18:25:30,28,M,Munich,Senior,"Fullstack engineer, ну или Software engineer",9,React/Typescript,60000.0,0.0,28,English,upto-10,Startup,unlimited,2020
 2020-11-24 18:27:22,29,M,Berlin,Senior,Backend Developer,11,Python,85000.0,85000.0,30,English,50-100,Product,unlimited,2020
 2020-11-24 18:31:25,32,M,Berlin,Lead,Software Engineer,9,Java,75000.0,0.0,24,English,1000+,Startup,unlimited,2020
-2020-11-24 18:32:14,24,M,Aachen,Junior,HiWi,3,Python,10164.0,0.0,14,English,10-50,University,temporary,2020
 2020-11-24 18:33:17,30,M,Berlin,Senior,Backend Developer,4,Golang ,65000.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 18:36:46,31,M,Munich,Middle,Software Engineer,11,Python,75000.0,0.0,unlimited,English,1000+,Product,unlimited,2020
 2020-11-24 18:37:32,44,M,Munich,Senior,Software Engineer,28,C#,78500.0,78500.0,30,English,50-100,Product,unlimited,2020
@@ -1368,11 +1273,9 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 18:49:18,33,M,Berlin,Middle,Software Engineer,10,iOS,65000.0,0.0,27,English,1000+,Product,unlimited,2020
 2020-11-24 18:49:33,46,M,Munich,Senior,Software Engineer,10,Python ,68500.0,60000.0,28,English,50-100,Startup,unlimited,2020
 2020-11-24 18:50:28,27,M,Berlin,Middle,Frontend Developer,8,Angular,45000.0,0.0,28,English,50-100,Product,unlimited,2020
-2020-11-24 18:50:50,30,M,Samara,Middle,Backend Developer,2,php,12000.0,0.0,30,unknown,unknown,Product,unlimited,2020
 2020-11-24 18:51:35,32,M,Berlin,Middle,Backend Developer,5,Ruby,72000.0,60000.0,30,English,10-50,Product,unlimited,2020
 2020-11-24 18:52:09,34,M,Berlin,Lead,Software Engineer,15,Java,80000.0,76000.0,28,English,1000+,Product,unlimited,2020
 2020-11-24 18:53:16,33,M,Berlin,Senior,Software Engineer,10,Salesforce ,68000.0,0.0,25,English,10-50,Startup,temporary,2020
-2020-11-24 18:53:57,26,M,"Riga, Latvia",Middle,Software Engineer,4,javascript,24000.0,20000.0,20,English,100-1000,Consulting / Agency,unlimited,2020
 2020-11-24 18:54:07,41,M,Berlin,Lead,Software Engineer,19,Python,95500.0,94000.0,30,English,1000+,Product,unlimited,2020
 2020-11-24 18:54:54,35,M,Cologne,Senior,Software Engineer,14,C++,72000.0,70000.0,35,English,100-1000,Product,unlimited,2020
 2020-11-24 18:58:54,26,M,Hamburg,Senior,Software Engineer,7,TypeScript,72000.0,0.0,27,German,100-1000,Consulting / Agency,unlimited,2020
@@ -1381,9 +1284,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 19:07:37,35,M,Hamburg,Lead,Software Engineer,13,Scala / Python,95000.0,90000.0,25,English,50-100,Startup,unlimited,2020
 2020-11-24 19:07:57,31,M,Dusseldorf,Senior,Software Engineer,7,C++,50400.0,50000.0,27,English,1000+,Product,unlimited,2020
 2020-11-24 19:09:32,25,M,Berlin,Middle,Backend Developer,5,Java,80000.0,0.0,30,English,1000+,Startup,unlimited,2020
-2020-11-24 19:12:16,30,M,Moscow,Middle,Backend Developer,2,Python,13000.0,0.0,28,Russian,50-100,Startup,unlimited,2020
-2020-11-24 19:14:03,37,M,Zurich,Middle,Project manager,20,Not Provided,130000.0,125000.0,25,English,1000+,Consulting / Agency,unlimited,2020
-2020-11-24 19:15:02,30,M,Moscow,Middle,Software Engineer,5,C,14712.0,14712.0,30,Russian,100-1000,Product,unlimited,2020
 2020-11-24 19:15:49,33,M,Berlin,Senior,Product Manager,5,Not Provided,70000.0,65000.0,30,German,100-1000,Product,unlimited,2020
 2020-11-24 19:19:30,35,M,Berlin,Senior,QA Engineer,11,Java,74400.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 19:24:50,37,M,Hamburg,Senior,Software Engineer,15,Java,70000.0,60000.0,25,English,10-50,Startup,temporary,2020
@@ -1393,7 +1293,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 19:41:27,23,M,Berlin,Middle,Software Engineer,4,Javascript,70500.0,58000.0,30,English,1000+,Product,unlimited,2020
 2020-11-24 19:42:42,39,M,Stuttgart,Lead,Software Engineer,11,PHP,75000.0,75000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 19:47:34,27,F,Berlin,Middle,Data Scientist,3,Python,58000.0,55000.0,24,English,50-100,Product,unlimited,2020
-2020-11-24 19:48:24,50,M,Berlin,Lead,Software Engineer,29,C++,28800.0,28800.0,30,German,10-50,IT-Outsourcing,unlimited,2020
 2020-11-24 19:57:46,35,F,Berlin,Middle,Designer (UI/UX),15,Not Provided,53000.0,0.0,30,English,1000+,Product,unlimited,2020
 2020-11-24 20:00:02,40,M,Berlin,Middle,Architect,10,Not Provided,89000.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-24 20:01:18,35,M,Helsinki,Senior,Backend Developer,11,python,66000.0,53000.0,28,English,100-1000,Product,unlimited,2020
@@ -1405,7 +1304,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 20:15:27,37,F,Berlin,Middle,Designer (UI/UX),2,Not Provided,70000.0,0.0,30,English,upto-10,Startup,temporary,2020
 2020-11-24 20:18:31,37,M,Berlin,Senior,Software Engineer,8,Python ,76900.0,70000.0,26,English,100-1000,Product,unlimited,2020
 2020-11-24 20:23:25,33,M,Berlin,Lead,Technical Lead,10,Not Provided,85000.0,70000.0,26,English,1000+,Startup,unlimited,2020
-2020-11-24 20:23:56,30,M,Kiev,Middle,Backend Developer,8,Web developer,27000.0,27000.0,21,Русский,50-100,Product,temporary,2020
 2020-11-24 20:25:32,30,M,Munich,Middle,Frontend Developer,4,JavaScript/Typescript,55000.0,0.0,27,English,1000+,Product,unlimited,2020
 2020-11-24 20:26:19,31,M,Berlin,Lead,Software Engineer,4,Java,95000.0,89000.0,28,English,1000+,Startup,unlimited,2020
 2020-11-24 20:26:20,32,M,Munich,Middle,Software Engineer,4,Java,56000.0,56000.0,30,English,1000+,Product,unlimited,2020
@@ -1426,16 +1324,13 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-24 21:07:50,29,M,Berlin,Senior,Frontend Developer,8,JavaScript / typescript,69000.0,0.0,30,English,1000+,Product,unlimited,2020
 2020-11-24 21:10:08,32,M,Munich,Senior,Software Engineer,10,Java,88000.0,86000.0,30,English,1000+,Product,unlimited,2020
 2020-11-24 21:14:25,31,M,Berlin,Senior,DevOps,11,Terraform,81000.0,75000.0,28,English,100-1000,Startup,unlimited,2020
-2020-11-24 21:16:30,29,M,Cracovia,Middle,Frontend Developer,2,JavaScript,18700.0,16000.0,22,Polish,1000+,Product,unlimited,2020
 2020-11-24 21:21:56,26,M,Berlin,Middle,Marketing Analyst,7,SQL,60000.0,0.0,27,English,100-1000,Startup,unlimited,2020
 2020-11-24 21:28:26,29,M,Berlin,Middle,Software Engineer,5,PHP,56000.0,0.0,30,English,10-50,Product,unlimited,2020
 2020-11-24 21:34:09,30,M,Hamburg,Senior,Frontend Developer,7,JavaScript,55000.0,0.0,28,English,100-1000,Product,unlimited,2020
 2020-11-24 21:34:10,38,M,Berlin,Senior,Mobile Developer,10,Swift,70000.0,70000.0,24,English,1000+,Product,unlimited,2020
-2020-11-24 21:36:24,32,M,Berlin,CTO,CTO,10,JAVA,200000.0,0.0,28,English,100-1000,Product,unlimited,2020
 2020-11-24 21:37:44,25,M,Berlin,Middle,Solutions Architect,6,Apache Spark,100000.0,73000.0,30,English,1000+,Product,unlimited,2020
 2020-11-24 21:38:24,24,M,Berlin,Junior,Backend Developer,3,C#,48000.0,0.0,28,English,1000+,Game Company,temporary,2020
 2020-11-24 21:39:12,24,M,Tallinn,Junior,Software Engineer,3,Java,30000.0,28800.0,28,English,10-50,Product,unlimited,2020
-2020-11-24 21:45:48,27,M,Prague,Middle,Software Engineer,3,.NET,21120.0,16560.0,21,Czech,10-50,Product,temporary,2020
 2020-11-24 21:47:25,34,F,Berlin,Senior,QA Engineer,6,Ruby,67500.0,61400.0,30,English,1000+,Product,unlimited,2020
 2020-11-24 21:47:33,30,M,Utrecht,Middle,Data Scientist,2,python,48000.0,41000.0,25,English,1000+,Product,temporary,2020
 2020-11-24 21:52:03,27,F,Munich,Middle,Frontend Developer,2,JavaScript,64000.0,50000.0,28,English,100-1000,Startup,unlimited,2020
@@ -1480,10 +1375,8 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-25 08:43:21,40,M,Berlin,Head,Product Manager,13,Not Provided,90000.0,75000.0,30,English,1000+,Product,unlimited,2020
 2020-11-25 08:47:15,27,M,Berlin,Middle,Software Engineer,6,Java,82000.0,94000.0,30,English,1000+,Product,unlimited,2020
 2020-11-25 08:47:37,29,M,Munich,Middle,Software Engineer,8,PHP,75000.0,66000.0,30,English,1000+,Product,unlimited,2020
-2020-11-25 08:47:37,37,M,Malta,Head,Software Architect,18,Go,156000.0,156000.0,0,English,10-50,Startup,unlimited,2020
 2020-11-25 08:54:22,23,M,Berlin,Middle,Software Engineer,5,Python,53000.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-25 08:55:24,35,M,Munich,Senior,Backend Developer,14,Java,77000.0,69300.0,30,English,100-1000,Startup,unlimited,2020
-2020-11-25 09:00:23,39,M,Berlin,Head,Manager,11,Python ,180000.0,130000.0,28,English,1000+,Product,unlimited,2020
 2020-11-25 09:03:05,33,M,Lübeck,Middle,Software Engineer,10,C#,55000.0,0.0,27,German,100-1000,Product,unlimited,2020
 2020-11-25 09:04:25,31,M,Berlin,Lead,Software Engineer,10,Python,82000.0,0.0,26,English,100-1000,Startup,unlimited,2020
 2020-11-25 09:05:26,38,M,Berlin,Head,Data Scientist,15,Python,100000.0,80000.0,27,English,100-1000,Startup,unlimited,2020
@@ -1500,7 +1393,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-25 09:35:28,33,M,Nürnberg,Senior,Software Engineer,9,Javascript / Typescript,60000.0,60000.0,30,German,1000+,Consulting / Agency,unlimited,2020
 2020-11-25 09:40:44,36,F,Berlin,Middle,DevOps,1,java,60000.0,58000.0,26,English,50-100,Consulting / Agency,unlimited,2020
 2020-11-25 09:44:24,27,F,Munich,Junior,Mobile Developer,1,"Kotlin, Java",50000.0,50000.0,27,English,10-50,Startup,unlimited,2020
-2020-11-25 09:45:51,33,M,Berlin,Lead,Software Engineer,12,Go,120000.0,104000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-25 09:49:36,33,M,Berlin,Middle,Data Analyst,2,SQL,62000.0,50000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-25 09:56:50,40,M,Berlin,Senior,QA Engineer,11,Python,60000.0,60000.0,28,German,100-1000,Product,unlimited,2020
 2020-11-25 10:02:55,24,F,Berlin,Middle,Software Engineer,2,Not Provided,58000.0,0.0,30,German,10-50,Consulting / Agency,unlimited,2020
@@ -1517,8 +1409,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-25 10:53:55,37,M,Berlin,unknown,Data Analyst,3,Python,67000.0,0.0,21,English,1000+,Product,unlimited,2020
 2020-11-25 10:55:15,34,M,Berlin,Senior,Mobile Developer,10,Android/Kotlin,70000.0,0.0,28,English,50-100,Product,unlimited,2020
 2020-11-25 10:56:28,28,F,Berlin,Middle,Data Scientist,4,Python,65000.0,56000.0,27,English,100-1000,Product,unlimited,2020
-2020-11-25 10:58:00,39,M,Munich,Lead,Software Architect,20,embedded,122000.0,118000.0,28,English,1000+,Product,unlimited,2020
-2020-11-25 10:58:13,32,M,Berlin,Senior,Software Engineer,15,Java,150000.0,0.0,30,English,unknown,Product,unlimited,2020
 2020-11-25 11:03:17,32,M,Leipzig,Middle,Frontend Developer,8,JavaScript,40800.0,0.0,28,German,100-1000,Product,unlimited,2020
 2020-11-25 11:07:02,32,M,Berlin,Middle,Software Engineer,6,PHP,58000.0,0.0,30,German,1000+,Product,temporary,2020
 2020-11-25 11:08:17,37,M,Berlin,Middle,QA Engineer,6,Java/Groovy,69200.0,67100.0,28,English,100-1000,SaaS,unlimited,2020
@@ -1532,7 +1422,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-25 11:22:06,26,M,Berlin,Middle,Software Engineer,5,Swift,71000.0,65000.0,27,English,1000+,Product,unlimited,2020
 2020-11-25 11:24:14,28,M,Berlin,Middle,Data Engineer,5,Scala,65000.0,60000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-25 11:29:28,36,M,Berlin,Middle,Data Scientist,5,python,50000.0,0.0,30,English,100-1000,Startup,unlimited,2020
-2020-11-25 11:30:04,40,M,Munich,Senior,Software Engineer,18,java,160000.0,160000.0,15,German,upto-10,Consulting / Agency,temporary,2020
 2020-11-25 11:37:31,29,M,Milan,Middle,Data Scientist,4,Python + SQL,37500.0,35000.0,16,Italian,100-1000,Consulting / Agency,unlimited,2020
 2020-11-25 11:39:11,32,M,Berlin,Middle,Software Engineer,10,javascript,65000.0,65000.0,24,English,50-100,Startup,unlimited,2020
 2020-11-25 11:41:13,28,M,Munich,Middle,Software Engineer,5,Java,56000.0,52000.0,25,English,10-50,Startup,unlimited,2020
@@ -1547,8 +1436,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-25 11:57:58,29,M,Berlin,Senior,Backend Developer,10,Scala,78000.0,75000.0,30,English,10-50,Startup,unlimited,2020
 2020-11-25 12:01:50,39,M,Berlin,Senior,Software Engineer,6,PHP,60000.0,0.0,25,English,100-1000,Product,unlimited,2020
 2020-11-25 12:04:41,35,M,Berlin,Senior,Frontend Developer,10,JavaScript,75000.0,70000.0,30,English,1000+,Startup,unlimited,2020
-2020-11-25 12:05:48,38,M,Berlin,Head,Tech Leader,24,Java,130000.0,0.0,30,English,100-1000,Product,unlimited,2020
-2020-11-25 12:06:58,31,M,Salzburg,C-Level,Chief Research Officer,10,Python,115000.0,81000.0,25,English,50-100,Startup,unlimited,2020
 2020-11-25 12:15:16,32,M,Berlin,Senior,QA Engineer,7,Swift,65000.0,62000.0,24,English,50-100,Startup,temporary,2020
 2020-11-25 12:20:23,35,M,Berlin,Senior,SRE,10,Terraform ,75000.0,75000.0,28,English,100-1000,Product,unlimited,2020
 2020-11-25 12:21:48,28,M,Rome,Middle,ML Engineer,2,Java,36000.0,28000.0,36,English,1000+,Product,unlimited,2020
@@ -1562,10 +1449,7 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-25 13:02:51,22,M,Berlin,Middle,Presales Engineer ,4,"Java, .Net",63000.0,0.0,30,English,100-1000,Startup,unlimited,2020
 2020-11-25 13:03:32,37,F,Berlin,Middle,Data Scientist,2,Python,62000.0,58000.0,30,German,100-1000,Publisher,unlimited,2020
 2020-11-25 13:05:32,25,M,Berlin,Junior,Data Scientist,1,"Python, statistics, SQL",51000.0,0.0,28,English,1000+,Product,unlimited,2020
-2020-11-25 13:12:26,33,M,Berlin,Senior,Backend Developer,11,Scala,154000.0,110000.0,22,German,10-50,Startup,temporary,2020
-2020-11-25 13:16:43,38,M,Berlin,Head,Freelance AI lead / advisor,20,C,200000.0,80000.0,0,English,upto-10,Consulting / Agency,unlimited,2020
 2020-11-25 13:20:02,31,M,Berlin,Senior,Data Scientist,6,Not Provided,78000.0,76000.0,30,English,1000+,E-commerce,unlimited,2020
-2020-11-25 13:26:21,24,M,Munich,Junior,Data Scientist,1,C++,300000.0,0.0,30,English,100-1000,Startup,unlimited,2020
 2020-11-25 13:37:21,28,M,Berlin,Lead,DevOps,10,Not Provided,78000.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-25 13:37:26,25,M,Berlin,Senior,Software Engineer,5,Node.js,57000.0,0.0,24,English,upto-10,Consulting / Agency,temporary,2020
 2020-11-25 13:39:11,26,F,Berlin,Middle,Data Scientist,4,"Sql, BQ, tableau, gtm, ga",45000.0,45000.0,25,English,100-1000,Startup,temporary,2020
@@ -1590,7 +1474,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-25 14:02:47,39,M,Hamburg,Senior,Data Scientist,10,R,80000.0,80000.0,30,English,1000+,Energy ,unlimited,2020
 2020-11-25 14:08:16,35,M,Berlin,Senior,Backend Developer,13,Nodejs,90000.0,82000.0,31,English,upto-10,Startup,unlimited,2020
 2020-11-25 14:08:18,30,F,Berlin,Middle,QA Engineer,5,TS,54000.0,0.0,28,English,10-50,Product,unlimited,2020
-2020-11-25 14:08:39,29,F,Berlin,Intern,Data Scientist,0,Python,20000.0,0.0,25,English,1000+,Product,temporary,2020
 2020-11-25 14:08:48,36,M,Berlin,Head,Engineering Manager,18,C++,98000.0,98000.0,30,English,1000+,Product,unlimited,2020
 2020-11-25 14:09:53,41,M,Berlin,Senior,Backend Developer,20,Python,93000.0,88000.0,29,English,1000+,Product,unlimited,2020
 2020-11-25 14:14:02,41,M,Berlin,Lead,Software Engineer,18,PHP,100000.0,80000.0,28,English,50-100,Product,unlimited,2020
@@ -1619,7 +1502,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-25 15:16:59,31,M,Berlin,Middle,Software Engineer,4,Java,67000.0,50000.0,30,English,1000+,Product,unlimited,2020
 2020-11-25 15:27:18,28,M,Wolfsburg,Middle,Software Engineer,3,Java,42000.0,42000.0,30,English,100-1000,Consulting / Agency,unlimited,2020
 2020-11-25 15:51:41,31,M,Boeblingen,Senior,QA Engineer,6,Python,53000.0,53000.0,30,English,1000+,Consulting / Agency,unlimited,2020
-2020-11-25 15:53:21,40,M,Cupertino,Lead,Software Engineer,20,Swift,250000.0,230000.0,45,English,1000+,Product,unlimited,2020
 2020-11-25 16:06:56,25,F,Frankfurt,Middle,Software Engineer,3,Java,53000.0,48000.0,30,German,1000+,Product,unlimited,2020
 2020-11-25 16:08:01,35,M,Berlin,Senior,Data Analyst,9,Python,77000.0,70000.0,28,German,100-1000,Startup,unlimited,2020
 2020-11-25 16:08:21,35,M,Berlin,Senior,Software Engineer,15,.net,80000.0,67000.0,30,English,10-50,Consulting / Agency,unlimited,2020
@@ -1630,7 +1512,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-25 16:39:24,35,M,Berlin,Senior,Software Engineer,10,php,78000.0,78000.0,27,German,upto-10,Product,unlimited,2020
 2020-11-25 16:42:43,36,F,Berlin,Senior,Data Scientist,5,Python,75000.0,75000.0,28,English,50-100,Startup,unlimited,2020
 2020-11-25 16:50:22,49,M,Munich,Senior,Software Engineer,27,Java,57000.0,57000.0,30,German,100-1000,Consulting / Agency,unlimited,2020
-2020-11-25 17:00:00,32,M,Berlin,Lead,Software Engineer,10,TypeScript,120000.0,90000.0,0,Deutsch/English,1000+,Concern,temporary,2020
 2020-11-25 17:02:13,32,F,Berlin,Lead,Software Engineer,6,Java,75000.0,75000.0,28,English,100-1000,Startup,unlimited,2020
 2020-11-25 17:06:04,27,F,Berlin,Middle,Data Analyst ,1,"Python, SQL",63000.0,42000.0,27,English,1000+,Product,unlimited,2020
 2020-11-25 17:08:54,31,M,Frankfurt,Senior,Data Scientist,6,python,60000.0,0.0,30,English,50-100,Consulting / Agency,unlimited,2020
@@ -1668,10 +1549,8 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-25 18:59:36,33,M,Berlin,Senior,ML Engineer,10,Not Provided,90000.0,0.0,30,English,1000+,Product,unlimited,2020
 2020-11-25 19:02:12,28,M,Munich,Middle,Software Engineer,6,"C, C++",64000.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-25 19:02:43,25,M,Berlin,Middle,Mobile Developer,2,"Swift, Objective-C, iOS",44000.0,43000.0,27,English,1000+,Product,unlimited,2020
-2020-11-25 19:06:21,25,F,Hamburg,Student,working student (QA),1,Ruby,12000.0,12000.0,12,English,1000+,Product,temporary,2020
 2020-11-25 19:10:04,32,M,Berlin,Lead,Backend Developer,10,Ruby,80000.0,68500.0,28,English,50-100,Product,unlimited,2020
 2020-11-25 19:15:16,32,M,Berlin,Lead,Software Engineer,9,Embedded,73000.0,65000.0,28,English,100-1000,Product,unlimited,2020
-2020-11-25 19:31:47,26,M,Berlin,Head,Architect ,9,Go,120000.0,95000.0,24,English,1000+,Product,unlimited,2020
 2020-11-25 19:33:52,25,M,Berlin,Senior,Software Engineer,6,JavaScript / TypeScript,71750.0,66000.0,30,English,1000+,Product,unlimited,2020
 2020-11-25 19:38:20,27,F,Berlin,Middle,Backend Developer,5,Kotlin,65000.0,52000.0,30,English,50-100,Product,unlimited,2020
 2020-11-25 19:44:29,28,M,Frankfurt,Senior,Frontend Developer,7,Javascript,80000.0,76000.0,29,English,10-50,Startup,unlimited,2020
@@ -1679,7 +1558,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-25 19:54:39,28,M,Karlsruhe,Senior,Backend Developer,7,Java,66000.0,66000.0,28,English,1000+,Product,unlimited,2020
 2020-11-25 19:57:23,34,M,Berlin,Lead,Frontend Developer,13,JavaScript,85000.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-25 20:01:27,35,M,Konstanz,Middle,Data Scientist,10,python,65000.0,65000.0,25,English,50-100,Product,unlimited,2020
-2020-11-25 20:13:33,38,M,Berlin,Head,Head of Engineering,20,Java,130000.0,130000.0,30,English,1000+,Corporation,unlimited,2020
 2020-11-25 20:15:31,33,M,Berlin,Senior,Backend Developer,9,Java,81900.0,0.0,30,English,1000+,Startup,unlimited,2020
 2020-11-25 20:31:41,36,M,Berlin,Senior,Product Manager,10,Not Provided,85000.0,80000.0,30,English,1000+,Product,unlimited,2020
 2020-11-25 20:34:33,31,F,Ulm,Middle,QA Engineer,8,Java,45000.0,39000.0,30,English,100-1000,Product,unlimited,2020
@@ -1694,13 +1572,11 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-25 21:19:54,37,M,Berlin,Senior,Mobile Developer,17,Swift,77000.0,71000.0,28,English,1000+,Product,unlimited,2020
 2020-11-25 21:20:37,30,M,Stuttgart,Middle,Software Engineer,8,C++,71000.0,69000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-25 21:48:49,29,M,Berlin,Senior,Mobile Developer,5,iOS,65000.0,58000.0,27,English,100-1000,Product,unlimited,2020
-2020-11-25 22:05:13,41,M,Berlin,Senior,Software Engineer,18,JavaScript,120000.0,92000.0,30,English,upto-10,Startup,unlimited,2020
 2020-11-25 22:11:45,38,M,Stuttgart ,Middle,Backend Developer,4,PHP,43000.0,43000.0,30,English,upto-10,Consulting / Agency,unlimited,2020
 2020-11-25 22:18:59,32,M,Frankfurt,Senior,Software Engineer,18,Not Provided,81000.0,0.0,30,English,1000+,Product,unlimited,2020
 2020-11-25 22:40:29,29,M,Düsseldorf,Middle,Frontend Developer,6,TypeScript,55000.0,0.0,30,German,10-50,Product,unlimited,2020
 2020-11-25 23:01:28,35,M,Berlin,Senior,QA Engineer,12,JS,63000.0,56000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-25 23:03:43,41,M,Munich,Senior,Software Engineer,19,Java,75000.0,73000.0,27,English,100-1000,Product,unlimited,2020
-2020-11-25 23:04:36,29,M,Barcelona,Junior,Data Scientist,0,Python,22000.0,11000.0,22,English,50-100,Product,unlimited,2020
 2020-11-25 23:08:40,26,F,Dusseldorf,Middle,BI Consultant SAP/ Data Engineer,5,ABAP,65000.0,46000.0,30,German,upto-10,Startup,unlimited,2020
 2020-11-25 23:20:02,32,M,Paris,Senior,DevOps,12,Not Provided,62000.0,0.0,30,English,1000+,Product,unlimited,2020
 2020-11-25 23:30:07,30,M,Berlin,Middle,Data Engineer,6,Python,65000.0,0.0,27,English,1000+,Product,unlimited,2020
@@ -1715,7 +1591,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-26 04:00:56,32,M,Munich,Senior,Frontend Developer,8,"Js, reactJS ",65000.0,0.0,30,English,1000+,Product,unlimited,2020
 2020-11-26 04:18:01,26,M,Berlin,Middle,Data Engineer,4,Scala,51000.0,46000.0,30,English,10-50,Consulting / Agency,unlimited,2020
 2020-11-26 04:26:30,32,M,Berlin,Senior,DevOps,10,Not Provided,90000.0,80000.0,30,English,1000+,Product,unlimited,2020
-2020-11-26 05:53:19,22,M,Cologne,Head,QA Engineer,1,Cobol,159000.0,98000.0,45,German,1000+,Product,unlimited,2020
 2020-11-26 06:01:22,43,M,Berlin,Lead,Engineering Manager,20,Java,105000.0,105000.0,30,English,1000+,Product,unlimited,2020
 2020-11-26 07:06:11,33,M,Munich,Senior,Software Engineer,11,JavaScript ,80000.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-26 07:14:19,35,F,Frankfurt,Junior,Software Engineer,1,ABAP,50000.0,50000.0,30,German,50-100,Consulting / Agency,unlimited,2020
@@ -1738,12 +1613,9 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-26 09:49:16,34,M,Berlin,Senior,Backend Developer,13,Elixir,70000.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-26 09:50:38,25,M,Berlin,Senior,Backend Developer,6,Go,86000.0,80000.0,28,English,100-1000,Startup,unlimited,2020
 2020-11-26 09:51:53,42,F,Berlin,Middle,QA Engineer,5,Java,46000.0,46000.0,26,English,50-100,Product,unlimited,2020
-2020-11-26 10:07:39,25,F,Tampere (Finland),Junior,computer vision researcher,3,Python,23000.0,0.0,30,English,50-100,Science Institute ,temporary,2020
-2020-11-26 10:11:01,40,M,Berlin,Lead,Backend Developer,14,Spring,135000.0,65000.0,30,English,100-1000,Product,temporary,2020
 2020-11-26 10:14:19,33,M,Heidelberg,Senior,Software Engineer,11,Python,80000.0,0.0,30,English,100-1000,Research institute,temporary,2020
 2020-11-26 10:31:07,39,M,Cologne,Head,Teamlead,12,PHP ,75000.0,75000.0,30,German,upto-10,Startup,unlimited,2020
 2020-11-26 10:31:59,24,M,Berlin,Junior,Software Engineer,2,Javascript,50000.0,35000.0,30,German,1000+,Product,unlimited,2020
-2020-11-26 10:40:41,24,F,Prague,Middle,Software Engineer,3,Java,29000.0,23000.0,20,English,10-50,Startup,unlimited,2020
 2020-11-26 10:53:48,39,M,Berlin,Lead,Engineering Manager,15,Java,78000.0,78000.0,30,German,100-1000,Product,unlimited,2020
 2020-11-26 10:59:10,33,M,Amsterdam,Senior,Backend Developer,8,C#,75000.0,56000.0,27,English,10-50,Product,temporary,2020
 2020-11-26 11:10:50,26,M,Berlin,Middle,Backend Developer,2,Java,60000.0,0.0,26,English,100-1000,Product,unlimited,2020
@@ -1758,7 +1630,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-26 12:47:20,36,M,Frankfurt,Middle,Software Engineer,16,.Net,65000.0,65000.0,30,German,50-100,Consulting / Agency,unlimited,2020
 2020-11-26 13:35:07,30,M,Berlin,Middle,DevOps,7,Not Provided,80000.0,0.0,30,English,1000+,Startup,unlimited,2020
 2020-11-26 14:10:57,30,M,Berlin,Senior,Mobile Developer,8,Swift,60000.0,0.0,50,English,upto-10,Consulting / Agency,temporary,2020
-2020-11-26 14:37:05,27,M,Bucharest,Junior,QA Engineer,1,Javascript,11000.0,0.0,30,unknown,unknown,Product,unlimited,2020
 2020-11-26 14:48:23,39,M,Berlin,Senior,Software Engineer,19,Golang,87000.0,82000.0,unlimited,English,10-50,Startup,unlimited,2020
 2020-11-26 14:53:30,30,M,Munich,Senior,Software Engineer,10,Офмф,79000.0,0.0,30,English,10-50,Product,unlimited,2020
 2020-11-26 15:14:31,32,M,Berlin,Senior,Software Engineer,11,C++,100000.0,0.0,30,English,1000+,Product,unlimited,2020
@@ -1766,7 +1637,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-26 15:31:02,34,M,Berlin,Senior,Data Scientist,6,python,80000.0,76000.0,27,English,1000+,Product,unlimited,2020
 2020-11-26 15:37:45,26,M,Berlin,Middle,Data Scientist,4,Python,60000.0,60000.0,27,English,1000+,E-commerce,unlimited,2020
 2020-11-26 16:20:53,29,M,Helsinki,Senior,Mobile Developer,7,Kotlin,64000.0,0.0,30,English,50-100,Consulting / Agency,unlimited,2020
-2020-11-26 17:08:47,42,M,Berlin,Senior,Frontend Developer,18,React JS,850000.0,75000.0,35,English,100-1000,Product,unlimited,2020
 2020-11-26 17:24:39,31,M,Berlin,Senior,Software Engineer,12,Java,60000.0,55000.0,27,English,1000+,Product,unlimited,2020
 2020-11-26 17:25:10,30,M,Berlin,Senior,Backend Developer,8,Not Provided,73000.0,0.0,25,English,50-100,Startup,unlimited,2020
 2020-11-26 17:27:56,33,M,Berlin,Senior,Software Engineer,10,Python,80000.0,70000.0,28,English,1000+,Product,unlimited,2020
@@ -1792,7 +1662,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-26 21:50:13,42,M,Berlin,Senior,Software Engineer,20,PHP,65000.0,63000.0,27,English,100-1000,Startup,unlimited,2020
 2020-11-26 22:09:35,28,M,Munich,Middle,IT Manager,6,Not Provided,65000.0,58000.0,28,English,50-100,Consulting / Agency,unlimited,2020
 2020-11-26 22:35:44,31,M,Nuremberg,Middle,QA Engineer,9,Java,60000.0,57000.0,30,English,1000+,Product,unlimited,2020
-2020-11-26 22:41:33,20,M,Berlin,Lead,Mobile Developer,5,C#,240000.0,0.0,27,English,1000+,Product,unlimited,2020
 2020-11-26 22:44:06,34,F,Berlin,Senior,QA Engineer,11,Python,60000.0,36000.0,28,German,1000+,Product,unlimited,2020
 2020-11-26 23:22:43,38,M,Berlin,Head,Head of IT ,15,Not Provided,80000.0,75000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-26 23:26:02,35,M,Berlin,Lead,Engineering Manager,20,Go,85000.0,75000.0,26,English,10-50,Product,unlimited,2020
@@ -1821,12 +1690,9 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-27 12:26:33,26,M,Berlin,Middle,Software Engineer,2,TypeScript,58000.0,0.0,28,English,1000+,Consulting / Agency,unlimited,2020
 2020-11-27 12:30:01,37,M,Walldorf,Lead,ML Engineer,15,Python,80000.0,75000.0,30,English,1000+,Product,unlimited,2020
 2020-11-27 12:33:03,32,M,Hamburg,Senior,Software Engineer,12,Java,80000.0,80000.0,30,German,unknown,Consulting / Agency,temporary,2020
-2020-11-27 12:42:00,39,M,Munich,Senior,Software Engineer,8,Python,130000.0,125000.0,30,English,1000+,Product,unlimited,2020
 2020-11-27 12:44:12,26,F,Berlin,Middle,Tech recruiting,2,JS,40000.0,33000.0,25,English,100-1000,Product,unlimited,2020
 2020-11-27 12:53:07,30,M,Hamburg,Head,Data Scientist,5,Python,80000.0,70000.0,25,English,10-50,Startup,unlimited,2020
 2020-11-27 12:56:27,44,M,Frankfurt,Senior,Software Engineer,10,SAP ABAP,75000.0,73000.0,30,Russian,100-1000,Product,unlimited,2020
-2020-11-27 13:02:41,26,M,Munich,Senior,ML Engineer,5,Spark,180000.0,190000.0,40,German,upto-10,Consulting / Agency,temporary,2020
-2020-11-27 13:02:57,30,M,Munich,Senior,Software Engineer,10,Go,151872.0,0.0,30,English,1000+,Startup,unlimited,2020
 2020-11-27 13:12:14,26,M,Eindhoven,Middle,ML Engineer,3,Python,48000.0,42000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-27 13:21:26,25,F,Munich,Junior,ML Engineer,1,AI,57000.0,0.0,30,English,1000+,Product,unlimited,2020
 2020-11-27 13:24:29,34,M,France,Senior,Data Scientist,11,Python,80000.0,0.0,25,French,1000+,Consulting / Agency,unlimited,2020
@@ -1841,9 +1707,7 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-27 14:45:29,27,M,Berlin,Senior,ML Engineer,5,Python,70000.0,0.0,30,unknown,unknown,Product,unlimited,2020
 2020-11-27 14:52:02,29,M,Munich,Middle,Data Scientist,4,Python,61500.0,53000.0,30,English,10-50,Consulting / Agency,unlimited,2020
 2020-11-27 14:54:00,29,M,Munich,Middle,Software Engineer,4,R,78000.0,78000.0,30,English,1000+,Semiconductor,unlimited,2020
-2020-11-27 14:55:13,29,F,Cologne,Middle,ML Engineer,1,julia,500000000.0,500000000.0,99,English,upto-10,Startup,unlimited,2020
 2020-11-27 15:26:10,27,F,Berlin,Junior,Backend Developer,1,Java,42000.0,42000.0,28,German,100-1000,Product,unlimited,2020
-2020-11-27 15:28:36,36,M,Berlin,C-Level,CTO,15,Java & PHP,150000.0,120000.0,30,German,100-1000,Media,unlimited,2020
 2020-11-27 15:31:37,37,M,Munich,Head,Software Engineer,14,Typescript,84000.0,84000.0,30,English,upto-10,Product,unlimited,2020
 2020-11-27 15:49:51,31,M,Amsterdam,Lead,Data Scientist,10,Python,100000.0,0.0,30,English,10-50,Product,unlimited,2020
 2020-11-27 15:57:34,35,M,Berlin,Middle,Data Analyst,5,R,49000.0,48000.0,26,English,100-1000,Product,unlimited,2020
@@ -1853,7 +1717,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-27 17:21:50,33,M,Munich,Senior,Backend Developer,10,Java,70000.0,70000.0,30,English,10-50,Consulting / Agency,unlimited,2020
 2020-11-27 17:38:58,42,M,Berlin,Lead,Software Engineer,12,Java,95000.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-27 17:46:19,32,F,Berlin,Junior,BI Analyst ,1,Sql ,48000.0,0.0,28,English,100-1000,Startup,unlimited,2020
-2020-11-27 17:47:59,30,M,Berlin,Lead,Software Engineer,10,Frontend,115000.0,100000.0,28,English,1000+,Consulting / Agency,unlimited,2020
 2020-11-27 18:13:16,29,F,Berlin,Middle,Software Engineer,4,Java/Kotlin,60000.0,0.0,30,English,100-1000,Consulting / Agency,unlimited,2020
 2020-11-27 18:27:25,23,M,Munich,Junior,ML Engineer,1,Python,49000.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-11-27 19:08:08,35,F,Berlin,Junior,Frontend Developer,2,React,40000.0,38000.0,30,English,100-1000,Startup,unlimited,2020
@@ -1871,7 +1734,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-27 22:14:52,31,M,Berlin,Senior,Backend Developer,5,Python,77000.0,60000.0,28,English,1000+,Product,unlimited,2020
 2020-11-27 22:20:22,26,M,Berlin,Junior,Data Scientist,2,Pyrhon,55000.0,0.0,27,English,1000+,Product,unlimited,2020
 2020-11-27 22:35:06,42,M,Berlin,Lead,Software Engineer,12,Java,95000.0,0.0,30,English,100-1000,Product,unlimited,2020
-2020-11-28 05:36:11,27,M,Hamburg,Middle,Backend Developer,3,.net,10001.0,0.0,30,English,10-50,Consulting / Agency,temporary,2020
 2020-11-28 07:10:16,33,M,Berlin,Middle,Product Manager,5,PM tools,70000.0,0.0,26,English,1000+,Product,temporary,2020
 2020-11-28 08:39:21,33,M,Heilbronn,Lead,Senior Scrum Master (RTE),7,C++,90000.0,104000.0,30,German,1000+,Product,unlimited,2020
 2020-11-28 10:53:43,36,M,Frankfurt,Senior,QA Engineer,9,Not Provided,64000.0,60000.0,30,English,100-1000,Consulting / Agency,unlimited,2020
@@ -1911,7 +1773,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-30 10:49:42,36,M,Nuremberg,Lead,Software Engineer,20,Java,74000.0,74000.0,28,German,1000+,Finance,unlimited,2020
 2020-11-30 10:49:54,38,F,Düsseldorf,Middle,Data Scientist,14,R,70000.0,70000.0,32,German,1000+,Product,unlimited,2020
 2020-11-30 10:50:53,27,M,Nürnberg,Middle,QA Engineer,3,Not Provided,55000.0,0.0,30,German,100-1000,Consulting / Agency,unlimited,2020
-2020-11-30 10:52:55,26,M,Berlin,Junior,Backend Developer,2,Php,25000.0,25000.0,24,German,10-50,Product,unlimited,2020
 2020-11-30 10:58:04,26,M,Amsterdam,Junior,Data Scientist,2,Python,48000.0,43000.0,25,English,50-100,Fintech,temporary,2020
 2020-11-30 11:03:07,34,M,Stuttgart ,Head,Software Engineer,6,C++,90000.0,70000.0,30,German,1000+,Product,unlimited,2020
 2020-11-30 11:06:44,25,M,Stuttgart,Junior,Data Scientist,0,Python ,58000.0,0.0,30,German,1000+,Handel ,unlimited,2020
@@ -1930,11 +1791,9 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-30 12:06:18,28,M,Berlin,Junior,ML Engineer,1,Python,43000.0,42000.0,14,English,upto-10,Startup,unlimited,2020
 2020-11-30 12:07:23,35,M,Berlin,Senior,Data Scientist,12,Python,77000.0,65000.0,27,English,1000+,Startup,unlimited,2020
 2020-11-30 12:08:57,37,F,Berlin,Middle,Data Scientist,8,Python ,67000.0,0.0,28,English,1000+,Startup,unlimited,2020
-2020-11-30 12:10:34,26,M,Lisbon,Middle,Software Engineer,4,JavaScript,21000.0,19000.0,22,English,50-100,Product,unlimited,2020
 2020-11-30 12:11:34,30,M,Barcelona,Senior,Data Scientist,5,R,40000.0,40000.0,25,Spanish,1000+,Consulting / Agency,unlimited,2020
 2020-11-30 12:11:41,24,M,Sofia,Senior,ML Engineer,5,Python,64000.0,40000.0,20,English,10-50,Startup,unlimited,2020
 2020-11-30 12:11:50,35,M,Frankfurt,Head,Manager ,6,C,90000.0,88000.0,30,English,1000+,Product,unlimited,2020
-2020-11-30 12:13:37,27,M,Rome,Junior,Data Scientist,2,SQL,25300.0,25300.0,24,Italian,1000+,Consulting / Agency,temporary,2020
 2020-11-30 12:15:48,31,M,Munich,Lead,Professor,10,Python,80000.0,78000.0,unlimited,German,100-1000,Education,unlimited,2020
 2020-11-30 12:17:06,27,F,Munich,Senior,Backend Developer,6,Java,85600.0,75000.0,25,English,100-1000,Product,unlimited,2020
 2020-11-30 12:24:32,29,M,Bonn,Middle,Data Scientist,2,Python,55200.0,50000.0,30,English,1000+,Product,temporary,2020
@@ -1945,20 +1804,14 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-30 12:56:08,54,M,Milano,Head,Sales ,31,Network Automation,110000.0,110000.0,29,English,10-50,Consulting / Agency,unlimited,2020
 2020-11-30 13:10:41,31,M,Berlin,Senior,Software Engineer,6,Kotlin,90000.0,80000.0,28,English,1000+,Product,unlimited,2020
 2020-11-30 13:12:47,30,M,Bielefeld,Junior,Software Engineer,5,C++,55000.0,0.0,30,German,10-50,Product,unlimited,2020
-2020-11-30 13:17:39,36,M,Zurich,Senior,Backend Developer,15,C++,172000.0,169000.0,25,English,1000+,Product,unlimited,2020
-2020-11-30 13:26:02,24,M,Berlin,Student,Backend Developer,1,Python,14400.0,0.0,24,German,upto-10,Startup,temporary,2020
-2020-11-30 13:33:21,28,M,Frankfurt,Lead,XR Developer,8,C#,25000.0,25000.0,1,English,10-50,Startup,temporary,2020
 2020-11-30 13:50:56,32,M,Berlin,Head,Data Scientist,4,python,105000.0,85000.0,unlimited,German,10-50,Consulting / Agency,unlimited,2020
 2020-11-30 13:52:05,36,M,Hamburg,Middle,Data Scientist,2,Python,63000.0,55000.0,30,English,10-50,Product,unlimited,2020
 2020-11-30 13:55:09,26,M,Berlin,Middle,DevOps,5,"Kubernetes, Terraform, GCP",72000.0,60000.0,23,English,10-50,Startup,unlimited,2020
 2020-11-30 14:06:35,36,M,Munich,Middle,DevOps,14,PowerShell,65000.0,58040.0,30,German,100-1000,Consulting / Agency,unlimited,2020
 2020-11-30 14:30:05,33,M,Berlin,Senior,Backend Developer,13,Python,83000.0,73000.0,30,English,50-100,Startup,unlimited,2020
-2020-11-30 14:36:32,35,M,Berlin,Senior,Data Engineer,6,Java,200000.0,200000.0,14,English,10-50,Startup,temporary,2020
-2020-11-30 14:42:27,29,M,Basel,Lead,Data Scientist,5,Python,115000.0,0.0,25,English,1000+,Pharma,unlimited,2020
 2020-11-30 14:47:24,36,M,Berlin,Middle,Frontend Developer,6,JavaScript,58000.0,55000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-30 15:10:35,35,M,Berlin,Middle,Software Engineer,2,"python, scala",50000.0,42000.0,45,English,1000+,Product,unlimited,2020
 2020-11-30 15:27:53,29,M,Berlin,Senior,Backend Developer,9,Java,75000.0,75000.0,25,English,50-100,Startup,unlimited,2020
-2020-11-30 15:45:24,29,M,Berlin,Lead,DevOps,11,TypeScript,140000.0,140000.0,5,English,upto-10,Startup,unlimited,2020
 2020-11-30 15:48:04,32,M,Hamburg,Lead,Backend Developer,14,Java,80000.0,70000.0,28,English,100-1000,Startup,unlimited,2020
 2020-11-30 16:01:37,23,M,"NJ, USA",Entry level,"Student, Software Developer, Data Engineer",4,"Django, Flask, Plotly Dash",54179.13,0.0,30,English,upto-10,Education,unlimited,2020
 2020-11-30 16:20:18,32,F,Berlin,Lead,Engineering Team Lead,10,QA,65000.0,0.0,28,English,100-1000,Product,unlimited,2020
@@ -1969,7 +1822,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-30 16:57:51,48,M,Madrid,Senior,DevOps,15,Python,30000.0,0.0,30,English,upto-10,Startup,unlimited,2020
 2020-11-30 17:05:15,31,M,Berlin,Senior,Data Analyst,7,Sql,83000.0,75000.0,26,English,100-1000,Startup,unlimited,2020
 2020-11-30 18:24:21,38,M,Cologne,Senior,Software Engineer,15,C#,59000.0,0.0,30,English,upto-10,Product,unlimited,2020
-2020-11-30 18:25:04,22,M,Istanbul,Middle,Backend Developer,3,PHP,10001.0,0.0,0,English,upto-10,Startup,unlimited,2020
 2020-11-30 18:39:45,28,M,warsaw,Middle,Data Scientist,3,Python,50000.0,30000.0,21,English,100-1000,Product,unlimited,2020
 2020-11-30 18:41:07,29,M,Berlin,Senior,Data Scientist,5,Python,75000.0,75000.0,24,English,10-50,Startup,unlimited,2020
 2020-11-30 19:12:11,34,M,Munich,Senior,Frontend Developer,5,Javascript / Typescript,54000.0,54000.0,28,English,100-1000,Product,unlimited,2020
@@ -1980,7 +1832,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-11-30 20:39:33,29,M,Berlin,Middle,Product Manager,5,Not Provided,57750.0,55000.0,30,English,100-1000,Startup,unlimited,2020
 2020-11-30 20:56:33,27,M,Cologne,Junior,Software Engineer,1,C++,45000.0,45000.0,30,German,10-50,Product,unlimited,2020
 2020-11-30 21:19:16,35,F,Munich,Senior,Data Scientist,5,"SAS,SQL,Python",75000.0,0.0,30,English,1000+,Bank,unlimited,2020
-2020-11-30 21:31:01,29,M,London,Senior,Software Engineer,9,Typescript,113000.0,0.0,25,English,1000+,Corporation ,unlimited,2020
 2020-11-30 21:45:21,38,M,Munich,Senior,Product Manager,12,Node,74000.0,71000.0,30,English,1000+,Product,unlimited,2020
 2020-11-30 21:48:26,32,M,Berlin,Senior,Data Engineer,7,Python/SQL,82000.0,75000.0,30,English,100-1000,Product,unlimited,2020
 2020-11-30 21:57:56,37,M,Berlin,Senior,Data Scientist,10,Python,82000.0,79000.0,30,English,100-1000,Product,unlimited,2020
@@ -1995,7 +1846,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-12-01 00:16:18,32,M,Munich,Senior,Software Engineer,8,C++,65000.0,0.0,30,English,100-1000,Consulting / Agency,unlimited,2020
 2020-12-01 00:20:42,31,M,Helsinki,Middle,Software Engineer,5,Java,59064.0,0.0,30,English,50-100,Product,unlimited,2020
 2020-12-01 00:25:07,30,M,Berlin,Senior,Software Engineer,10,Ruby,90000.0,0.0,30,English,1000+,Product,unlimited,2020
-2020-12-01 00:32:37,30,M,Munich,Senior,Software Sales,12,Cloud,150000.0,0.0,28,English,1000+,Product,unlimited,2020
 2020-12-01 00:32:53,30,F,Berlin,Senior,QA Engineer,8,Javascript,70000.0,0.0,31,English,100-1000,Product,unlimited,2020
 2020-12-01 00:38:14,25,M,Hamburg,Middle,Backend Developer,5,Java,53500.0,50000.0,29,English,1000+,Product,unlimited,2020
 2020-12-01 01:32:35,30,M,Berlin,Lead,Software Engineer,9,Not Provided,90000.0,81000.0,25,English,10-50,Product,unlimited,2020
@@ -2033,13 +1883,10 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-12-01 20:57:41,34,F,Hildesheim ,Senior,QA Engineer,11,QA,60000.0,60000.0,30,German,1000+,Product,unlimited,2020
 2020-12-01 21:28:19,34,M,Hamburg,Senior,DevOps,8,Embedded,67500.0,0.0,30,English,100-1000,Product,unlimited,2020
 2020-12-01 22:23:17,36,M,Munich,Head,Software Engineer,13,Java,90000.0,80000.0,30,English,100-1000,Product,unlimited,2020
-2020-12-01 23:24:17,36,M,Berlin,Head,DevOps,17,Python,124000.0,0.0,28,English,100-1000,Product,unlimited,2020
 2020-12-02 00:07:14,40,F,Berlin,Middle,QA Engineer,16,Not Provided,65000.0,57000.0,30,English,10-50,Startup,unlimited,2020
 2020-12-02 00:27:03,31,M,Berlin,Senior,Software Engineer,7,Java,75000.0,75000.0,30,English,100-1000,Product,unlimited,2020
 2020-12-02 04:49:47,28,M,Munich,Senior,Software Engineer,8,PHP,57000.0,0.0,28,English,50-100,Product,unlimited,2020
 2020-12-02 04:49:53,28,M,Munich,Senior,Software Engineer,8,PHP,57000.0,0.0,28,English,50-100,Product,unlimited,2020
-2020-12-02 08:56:43,36,M,Berlin,Lead,Backend Developer,16,Scala,120000.0,120000.0,30,English,100-1000,Startup,unlimited,2020
-2020-12-02 10:35:10,22,F,Eindhoven,Junior,Frontend Developer,2,JS,24000.0,0.0,24,English,10-50,Product,unlimited,2020
 2020-12-02 11:52:05,26,F,Berlin,Senior,Backend Developer,7,Not Provided,60000.0,0.0,24,English,upto-10,Product,unlimited,2020
 2020-12-02 12:06:42,30,M,Berlin,Middle,Backend Developer,4,python,58000.0,55000.0,24,English,100-1000,Product,unlimited,2020
 2020-12-02 14:20:32,35,M,Berlin,Middle,Software Engineer,12,Kotlin,75000.0,74000.0,28,English,1000+,Product,unlimited,2020
@@ -2072,7 +1919,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-12-04 15:56:55,45,M,Stuttgart,Head,CTO,27,Not Provided,90000.0,90000.0,30,English,10-50,Consulting / Agency,unlimited,2020
 2020-12-04 18:56:48,28,F,Berlin,Senior,Designer (UI/UX),5,Not Provided,60000.0,0.0,26,English,1000+,Consulting / Agency,unlimited,2020
 2020-12-04 19:00:59,45,M,Munich,Senior,Data architect,19,Not Provided,90000.0,88000.0,30,English,1000+,Multinational ,unlimited,2020
-2020-12-04 20:33:47,37,M,Munich,Senior,Software Engineer,15,C,120000.0,120000.0,30,English,1000+,Product,unlimited,2020
 2020-12-05 00:19:36,35,M,Munich,Senior,Software Engineer,14,C++,98000.0,90000.0,30,English,1000+,Product,unlimited,2020
 2020-12-05 03:34:07,25,M,Cologne,Middle,ML Engineer,2,"NLP, Python",51000.0,0.0,24,English,upto-10,Startup,temporary,2020
 2020-12-05 10:09:33,31,M,Berlin,Senior,Software Engineer,4,Java,69000.0,65000.0,28,English,1000+,Product,unlimited,2020
@@ -2122,14 +1968,12 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-12-08 20:57:45,30,M,Berlin,Senior,Software Engineer,11,c/c++,70000.0,0.0,30,English,50-100,Startup,unlimited,2020
 2020-12-08 21:41:06,31,F,Berlin,Middle,Product Manager,4,Not Provided,60000.0,70000.0,28,English,100-1000,Startup,unlimited,2020
 2020-12-08 21:57:59,25,F,Cambridge,Middle,Frontend Developer,4,JavaScript/Typescript,45000.0,0.0,28,English,100-1000,Product,unlimited,2020
-2020-12-08 22:10:37,24,M,Berlin,Junior,ML Engineer,0,Python,11500.0,0.0,24,English,10-50,Consulting / Agency,temporary,2020
 2020-12-08 23:46:09,34,M,Cologne,Lead,CTO,14,C#,84000.0,72000.0,21,English,10-50,Product,unlimited,2020
 2020-12-09 04:46:05,42,M,Hamburg,Senior,Data Scientist,2,Python ,80000.0,65000.0,30,German,1000+,Old industry,unlimited,2020
 2020-12-09 10:09:49,37,F,Hamburg,Middle,QA Manager,7,java,46000.0,45000.0,30,German,100-1000,Product,unlimited,2020
 2020-12-09 10:32:21,32,M,Berlin,Senior,Mobile Developer,8,Swift,75000.0,70000.0,26,English,1000+,Product,unlimited,2020
 2020-12-09 13:37:29,26,F,Berlin,Middle,Mobile Developer,8,c++,40000.0,15000.0,36,German,100-1000,Product,temporary,2020
 2020-12-09 21:12:22,35,M,Munich,Head,Software Engineer,15,SQL,100000.0,60000.0,30,English,10-50,Consulting / Agency,unlimited,2020
-2020-12-10 08:37:41,43,M,Munich,Lead,Product Manager,18,.NET,115000.0,115000.0,25,English,1000+,Product,unlimited,2020
 2020-12-10 14:44:21,41,M,Munich,Senior,Software Engineer,15,Kotlin,99000.0,99000.0,39,German,1000+,Product,unlimited,2020
 2020-12-11 08:39:23,33,M,Berlin,Lead,Backend Developer,8,NodeJS,90000.0,85000.0,25,English,100-1000,Product,unlimited,2020
 2020-12-11 09:20:06,44,M,Berlin,Lead,QA Lead,15,"JS, Java",72000.0,72000.0,30,English,10-50,Product,unlimited,2020
@@ -2142,7 +1986,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-12-12 20:55:50,39,M,Berlin,Lead,Software Engineer,15,Java,75000.0,65000.0,24,English,50-100,Startup,unlimited,2020
 2020-12-13 08:25:33,32,M,Copenhagen,Senior,Data Scientist,6,Python,92000.0,90000.0,25,English,upto-10,Startup,unlimited,2020
 2020-12-13 11:59:29,36,M,Berlin,Lead,DevOps,15,Not Provided,90000.0,0.0,30,English,100-1000,Startup,unlimited,2020
-2020-12-13 15:03:32,27,F,Lisbon,Middle,Backend Developer,3,Java,17500.0,16000.0,22,English,1000+,Consulting / Agency,unlimited,2020
 2020-12-13 15:20:17,32,F,Berlin,Middle,Software Engineer,2,Javascript,63000.0,50000.0,27,English,100-1000,Product,unlimited,2020
 2020-12-13 18:25:45,25,F,Berlin,Middle,Software Engineer,4,"Scala, Apache Spark",65000.0,0.0,28,English,100-1000,Product,unlimited,2020
 2020-12-13 21:23:15,37,F,Berlin,Head,Data Scientist,7,Python,75000.0,0.0,28,English,10-50,Startup,unlimited,2020
@@ -2194,7 +2037,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2020-12-27 18:49:07,29,M,Berlin,Senior,Software Engineer,9,C++,73000.0,73000.0,30,English,1000+,Product,unlimited,2020
 2020-12-28 11:20:05,31,M,Berlin,Middle,Backend Developer,4,Ruby on Rails,50000.0,50000.0,25,English,10-50,Product,unlimited,2020
 2020-12-28 12:00:15,36,M,Stuttgart,Lead,Lead Developer,8,.net,72000.0,0.0,28,German,100-1000,Product,unlimited,2020
-2020-12-28 22:24:47,24,F,Munich,Student,Software Engineer,1,"Python, database technologies",16320.0,0.0,10,English,10-50,Startup,unlimited,2020
 2020-12-29 18:33:08,36,M,Berlin,Middle,Mobile Developer,10,Android,68000.0,65000.0,30,English,1000+,Product,unlimited,2020
 2020-12-29 23:57:42,29,M,Munich,Middle,Data Scientist,6,SQL,70000.0,60000.0,28,English,1000+,Product,unlimited,2020
 2020-12-30 02:23:59,30,F,Berlin,Lead,Frontend Developer,3,JavaScript ,57600.0,51200.0,30,English,100-1000,Product,unlimited,2020
@@ -2208,7 +2050,6 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2021-01-04 16:41:12,35,M,Munich,Lead,Software Engineer,12,python,100000.0,85000.0,30,English,50-100,Product,unlimited,2020
 2021-01-05 22:12:30,44,M,Munich,Head,Software Architekt,20,Java Backend,95000.0,95000.0,30,German,100-1000,Product,unlimited,2020
 2021-01-05 22:56:24,34,M,Ingolstadt ,Junior,Software Engineer,3,C++,55000.0,53000.0,30,German,1000+,Consulting / Agency,unlimited,2020
-2021-01-05 23:03:40,45,M,Munich,Self employed,Software Engineer,20,".net, c++, spss, embeddded",200000.0,200000.0,30,German,upto-10,freelance,unlimited,2020
 2021-01-05 23:51:56,31,M,Munich,Senior,Backend Developer,10,Ruby on Rails,85000.0,80000.0,27,English,100-1000,Startup,unlimited,2020
 2021-01-06 21:20:44,24,M,Berlin,Senior,Frontend Developer,5,TypeScript,68250.0,65000.0,27,English,100-1000,Product,unlimited,2020
 2021-01-06 21:36:17,27,M,Munich,Middle,Software Engineer,7,.NET,63000.0,0.0,30,English,50-100,Consulting / Agency,unlimited,2020
@@ -2218,15 +2059,12 @@ timestamp,age,gender,city,seniority_level,position,experience,programming_langua
 2021-01-08 00:38:57,35,M,Karlsruhe,Senior,Software Engineer,12,".Net, Angular",75000.0,75000.0,28,English,1000+,Product,unlimited,2020
 2021-01-08 16:12:36,52,M,Stuttgart,Lead,Software Engineer,8,Atlassian JIRA,100000.0,0.0,30,English,upto-10,Consulting / Agency,temporary,2020
 2021-01-08 17:23:19,33,F,Munich,Junior,Testmanager,10,Java,60000.0,55000.0,30,German,1000+,Product,unlimited,2020
-2021-01-10 22:31:57,26,M,Saint-Petersburg,Middle,Project Manager,5,Python,20000.0,0.0,24,Russian,1000+,Product,unlimited,2020
-2021-01-10 22:32:12,26,M,Saint-Petersburg,Middle,Project Manager,5,Python,20000.0,0.0,24,Russian,1000+,Product,unlimited,2020
 2021-01-11 12:12:34,39,M,Berlin,Senior,QA Engineer,7,Java,76000.0,65000.0,30,English,1000+,Product,unlimited,2020
 2021-01-12 12:48:23,37,M,Berlin,Senior,Mobile Developer,15,Android,84700.0,83000.0,29,English,100-1000,Product,unlimited,2020
 2021-01-12 22:22:21,27,M,Frankfurt,Middle,Software Engineer,3,Qlik,52000.0,0.0,27,German,10-50,Product,unlimited,2020
 2021-01-13 23:42:49,38,M,Munich,Senior,Data Analyst,16,Not Provided,95000.0,95000.0,30,English,1000+,Product,unlimited,2020
 2021-01-14 01:14:58,31,F,Berlin,Middle,Data Scientist,4,spark,50500.0,49000.0,30,English,1000+,Product,unlimited,2020
 2021-01-15 18:28:54,30,M,Berlin,unknown,SRE,10,Kubernetes,68000.0,68000.0,26,English,100-1000,Product,unlimited,2020
-2021-01-16 14:39:02,32,M,Munich,Lead,ERP Consultant,10,SAP,130000.0,125000.0,30,English,1000+,Product,unlimited,2020
 2021-01-16 19:35:40,32,F,Munich,Senior,QA Engineer,8,Java,55000.0,0.0,30,German,10-50,Product,unlimited,2020
 2021-01-16 22:23:04,32,M,Munich,Head,Software Engineer,10,Scala,95000.0,80000.0,24,English,10-50,Startup,unlimited,2020
 2021-01-17 13:22:23,28,M,Berlin,Middle,Frontend Developer,5,JavaScript,55000.0,55000.0,30,English,100-1000,Product,unlimited,2020
