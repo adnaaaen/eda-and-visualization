@@ -1,29 +1,9 @@
 from pandas import DataFrame, Series
+from typing import Any
 
 
-def drop(df: DataFrame, col_to_ignore: list[str]) -> DataFrame:
-    return df.drop(columns=col_to_ignore)
+def imputer(obj: Any, data: Series) -> Series:
+    trans_data = data.to_numpy().reshape(-1, 1)
+    imputed_data = Series(obj.fit_transform(trans_data).flatten())
+    return imputed_data
 
-
-# -----------------------------------------------------------------------------------------------------
-
-# TODO: complete
-def clean(df: DataFrame) -> DataFrame:
-    """
-    clean dataset
-
-    Args:
-        df (DataFrame) : the dataframe object
-
-    Returns:
-        DataFrame : a cleaned dataframe object
-    
-    """
-    pass
-
-
-# -------------------------------------------------------------------------------------------
-
-
-def impute(simpleimputer: object) -> Series:
-    pass 
