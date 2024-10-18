@@ -1,5 +1,4 @@
 from matplotlib import pyplot as plt
-from seaborn import histplot
 from wordcloud import WordCloud
 
 # types
@@ -22,47 +21,4 @@ def plot_wordcloud(data: Series) -> None:
     plt.axis("off")
 
 
-# ---------------------------------------------------------------------------------
 
-
-def plot_catagorical(data: Series) -> None:
-
-    """
-    plot catagorical about the top 10 value counts in the data
-    Args:
-        data (Series) : data to be create wordcloud
-
-    Return:
-        None
-    """
-    
-    highest_data = data.value_counts().nlargest(n=10)
-    plt.title(f"TOP 10 {data.name}", fontsize=24)
-    plt.bar(x=highest_data.index, height=highest_data.values)
-    plt.xticks(rotation=90)
-    plt.show()
-
-
-# ---------------------------------------------------------------------------------
-
-
-def plot_numerical(data: Series) -> None:
-    """
-"
-    plot numerical variable with histogram to find the distribution
-    Args:
-        data (Series) : data to be create wordcloud
-
-    Return:
-        None
-    "
-    """
-
-    plt.title(f"DISTRIBUTION OF {data.name}", fontsize=20)
-    histplot(data, bins=20, kde=True)
-    plt.show()
-
-
-
-
-    
