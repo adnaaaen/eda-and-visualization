@@ -9,9 +9,6 @@
 <img src="https://img.shields.io/badge/Seaborn-EE3B3B?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SciPy-8CAAE4?logo=scipy&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-f7931e?logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Git- E44C30?logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Poetry-7C7C7C?logo=python&logoColor=white" />
 </p>
 
 ## Project Overview

@@ -1,8 +1,9 @@
 from matplotlib import pyplot as plt
+from numpy import column_stack
 from wordcloud import WordCloud
 
 # types
-from pandas import Series
+from pandas import Series, DataFrame
 
 
 def plot_wordcloud(data: Series) -> None:
@@ -21,4 +22,14 @@ def plot_wordcloud(data: Series) -> None:
     plt.axis("off")
 
 
+
+def plot_catagorical(df: DataFrame, columns: list[str]) -> None:
+    for index, column in enumerate(columns, start=1):
+        row_len = len(columns)
+        rows = round(row_len/2)
+        plt.subplot(rows, 2, index)
+        data = df[column].value_counts().nlargest(n=5)
+        plt.title(column)
+        plt.bar(x=data.index, height=data.values)
+        plt.xticks(rotation=90)
 
