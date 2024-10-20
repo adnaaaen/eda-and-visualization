@@ -6,7 +6,7 @@ from wordcloud import WordCloud
 from pandas import Series, DataFrame
 
 
-def plot_wordcloud(data: Series) -> None:
+def plot_wordcloud(df: DataFrame, columns: list[str]) -> None:
     """
     return wordcloud of its values
     Args:
@@ -16,10 +16,14 @@ def plot_wordcloud(data: Series) -> None:
         None
     """
 
-    word_cloud = WordCloud(width=800, height=600).generate_from_frequencies(data.value_counts())
-    plt.title(data.name, fontsize=28)
-    plt.imshow(word_cloud)
-    plt.axis("off")
+    for index, column in enumerate(columns, start=1):
+        row_len = len(columns)
+        rows = round(row_len/2)
+        plt.subplot(rows, 2, index)
+        word_cloud = WordCloud(width=800, height=600).generate_from_frequencies(df[column].value_counts()
+        plt.title(column, fontsize=28)
+        plt.imshow(word_cloud)
+        plt.axis("off")
 
 
 
