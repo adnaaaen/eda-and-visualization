@@ -1,9 +1,8 @@
 from matplotlib import pyplot as plt
-from numpy import column_stack
 from wordcloud import WordCloud
 
 # types
-from pandas import Series, DataFrame
+from pandas import DataFrame
 
 
 def plot_wordcloud(df: DataFrame, columns: list[str]) -> None:
@@ -20,7 +19,7 @@ def plot_wordcloud(df: DataFrame, columns: list[str]) -> None:
         row_len = len(columns)
         rows = round(row_len/2)
         plt.subplot(rows, 2, index)
-        word_cloud = WordCloud(width=800, height=600).generate_from_frequencies(df[column].value_counts()
+        word_cloud = WordCloud(width=1200, height=800).generate_from_frequencies(df[column].value_counts())
         plt.title(column, fontsize=28)
         plt.imshow(word_cloud)
         plt.axis("off")
